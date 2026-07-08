@@ -209,4 +209,634 @@
     "example": "Warna bunga ercis, baik ungu maupun putih, ditentukan oleh allel yang berbeda dari gen pewarna.",
     "category": "Genetik"
   }
+  {
+    "id": 2031,
+    "term": "Alveolus",
+    "definition": "Kantung udara kecil di dalam paru-paru yang menjadi tempat pertukaran gas oksigen dan karbon dioksida dengan darah.",
+    "example": "Kerusakan pada alveolus akibat merokok dapat menyebabkan penyakit emfisema.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2032,
+    "term": "Alelopati",
+    "definition": "Fenomena biologi di mana suatu organisme memproduksi senyawa biokimia yang menghambat pertumbuhan, kelangsungan hidup, atau reproduksi organisme lain di sekitarnya.",
+    "example": "Pohon kenari hitam (black walnut) melepaskan zat alelopati beracun ke tanah untuk mencegah tanaman lain tumbuh di dekatnya.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2033,
+    "term": "Antigen",
+    "definition": "Zat apa pun yang memicu sistem kekebalan tubuh untuk menghasilkan antibodi secara spesifik terhadapnya.",
+    "example": "Permukaan virus flu memiliki antigen yang akan dikenali oleh sel darah putih manusia.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2034,
+    "term": "Bivalvia",
+    "definition": "Kelas moluska perairan yang memiliki cangkang terdiri dari dua bagian (katup) yang dihubungkan oleh engsel.",
+    "example": "Kerang, tiram, dan remis adalah contoh hewan air dari kelompok Bivalvia.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2035,
+    "term": "Kemotaksis",
+    "definition": "Pergerakan terarah suatu organisme atau sel sebagai respons terhadap bahan kimia di lingkungannya.",
+    "example": "Sperma manusia bergerak menuju sel telur melalui proses kemotaksis dengan merespons sinyal kimia.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2036,
+    "term": "Dikotil",
+    "definition": "Kelompok tumbuhan berbunga (Angiospermae) yang bijinya memiliki dua daun lembaga (kotiledon).",
+    "example": "Mangga, rambutan, dan kacang tanah adalah contoh tumbuhan dikotil berakar tunggang.",
+    "category": "Botani"
+  },
+  {
+    "id": 2037,
+    "term": "Endemik",
+    "definition": "Spesies organisme yang habitat alaminya terbatas hanya pada wilayah geografis atau ekologis tertentu dan tidak ditemukan secara alami di tempat lain.",
+    "example": "Burung Cendrawasih adalah spesies endemik yang hanya bisa ditemukan di Pulau Papua.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2038,
+    "term": "Enzim",
+    "definition": "Protein yang bertindak sebagai biokatalisator, mempercepat laju reaksi kimia dalam sel tanpa ikut bereaksi.",
+    "example": "Enzim amilase di air liur bertugas memecah karbohidrat kompleks menjadi gula sederhana.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2039,
+    "term": "Filogeni",
+    "definition": "Sejarah evolusi dan pola garis keturunan dari sekelompok organisme yang saling berhubungan.",
+    "example": "Pohon filogeni dibuat untuk memetakan seberapa dekat kekerabatan antara simpanse dan manusia.",
+    "category": "Evolusi"
+  },
+  {
+    "id": 2040,
+    "term": "Gametogenesis",
+    "definition": "Proses biologis pembentukan gamet (sel kelamin haploid) jantan dan betina melalui pembelahan meiosis.",
+    "example": "Spermatogenesis pada pria dan oogenesis pada wanita adalah dua bentuk gametogenesis.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2041,
+    "term": "Hemoglobin",
+    "definition": "Protein kaya zat besi dalam sel darah merah yang bertanggung jawab untuk mengikat dan membawa oksigen ke seluruh tubuh.",
+    "example": "Kekurangan zat besi dapat menyebabkan produksi hemoglobin menurun, berujung pada penyakit anemia.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2042,
+    "term": "Hifa",
+    "definition": "Struktur berbentuk benang halus berkelompok yang menyusun tubuh jamur multiseluler (miselium).",
+    "example": "Hifa pada jamur tempe menembus biji kedelai untuk mendapatkan nutrisi.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2043,
+    "term": "Koprolit",
+    "definition": "Fosil kotoran hewan prasejarah yang membatu, berguna bagi ahli paleontologi untuk mempelajari diet dan habitat hewan purba.",
+    "example": "Penemuan koprolit Dinosaurus memberikan petunjuk tentang tanaman apa saja yang mereka makan.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2044,
+    "term": "Leukosit",
+    "definition": "Sel darah putih yang tidak memiliki pigmen warna, merupakan bagian utama dari sistem kekebalan tubuh.",
+    "example": "Jumlah leukosit dalam tubuh biasanya akan meningkat pesat ketika kita sedang mengalami infeksi bakteri.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2045,
+    "term": "Makrofag",
+    "definition": "Sel fagosit besar dalam sistem imun yang menelan (memakan) sisa-sisa sel, patogen, dan partikel asing lainnya.",
+    "example": "Makrofag berpatroli di jaringan tubuh kita layaknya satpam untuk memakan sel-sel kanker yang mati.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2046,
+    "term": "Mutasi Titik",
+    "definition": "Perubahan materi genetik yang hanya melibatkan pergantian satu pasang basa nukleotida dalam untai DNA.",
+    "example": "Anemia sel sabit disebabkan oleh mutasi titik tunggal pada gen pembentuk hemoglobin.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2047,
+    "term": "Neuron",
+    "definition": "Sel saraf fungsional yang dirancang khusus untuk mengirimkan sinyal listrik dan kimiawi melintasi tubuh.",
+    "example": "Otak manusia diperkirakan memiliki sekitar 86 miliar sel neuron yang saling terkoneksi.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2048,
+    "term": "Osifikasi",
+    "definition": "Proses pembentukan tulang yang dimulai dengan pengendapan mineral kalsium dan fosfat pada tulang rawan.",
+    "example": "Osifikasi tulang-tulang pada bayi belum sepenuhnya selesai saat ia dilahirkan.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2049,
+    "term": "Parasitisme",
+    "definition": "Hubungan simbiosis di mana satu spesies (parasit) mendapat keuntungan secara sepihak dengan merugikan spesies lain (inang).",
+    "example": "Kutu kepala pada manusia adalah contoh nyata dari kehidupan parasitisme.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2050,
+    "term": "Respirasi Seluler",
+    "definition": "Serangkaian reaksi metabolisme di dalam sel untuk memanen energi kimia dari molekul makanan menjadi ATP.",
+    "example": "Tanpa adanya oksigen, tubuh akan beralih dari respirasi seluler aerob menjadi fermentasi asam laktat.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2051,
+    "term": "Stomata",
+    "definition": "Pori-pori kecil di permukaan daun atau batang yang mengatur pertukaran gas (CO2 dan O2) serta transpirasi air.",
+    "example": "Pada cuaca sangat terik, stomata akan menutup rapat untuk mencegah tanaman kehilangan terlalu banyak air.",
+    "category": "Botani"
+  },
+  {
+    "id": 2052,
+    "term": "Simbiotik",
+    "definition": "Interaksi biologis jangka panjang yang erat antara dua organisme biologis dari spesies berbeda.",
+    "example": "Ikan badut dan anemon laut memiliki hubungan simbiotik mutualisme yang erat untuk bertahan hidup.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2053,
+    "term": "Taksonomi",
+    "definition": "Cabang ilmu biologi yang mempelajari klasifikasi, penamaan, dan pengelompokan organisme berdasarkan kesamaan karakteristiknya.",
+    "example": "Carolus Linnaeus dikenal sebagai bapak taksonomi modern atas karyanya dalam sistem binomial nomenklatur.",
+    "category": "Biologi Dasar"
+  },
+  {
+    "id": 2054,
+    "term": "Vakuola",
+    "definition": "Organel penyimpan berukuran besar di dalam sel tumbuhan yang memuat air, cadangan makanan, dan zat sisa.",
+    "example": "Vakuola yang terisi penuh air memberikan tekanan hidrostatis yang membuat daun tumbuhan tampak segar.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2055,
+    "term": "Zoonosis",
+    "definition": "Penyakit menular yang dapat menular secara alami atau tidak alami dari hewan vertebrata ke manusia.",
+    "example": "Rabies dan Flu Burung adalah dua contoh dari penyakit zoonosis yang paling mematikan.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2056,
+    "term": "Bioluminesensi",
+    "definition": "Produksi dan pancaran cahaya terang secara alami yang dilakukan oleh organisme hidup melalui reaksi kimia di tubuhnya.",
+    "example": "Bioluminesensi pada kunang-kunang sebagian besar digunakan untuk menarik pasangan dalam gelap.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2057,
+    "term": "Ekstremiofil",
+    "definition": "Organisme mikroskopis yang mampu bertahan hidup, bahkan berkembang biak, dalam kondisi lingkungan paling ekstrem dan mematikan di bumi.",
+    "example": "Bakteri Thermus aquaticus adalah ekstremiofil yang ditemukan hidup subur di mata air panas mendidih Yellowstone.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2058,
+    "term": "Kromatin",
+    "definition": "Kompleks materi genetik yang terdiri dari untaian DNA dan protein histon yang menyusun kromosom di dalam nukleus.",
+    "example": "Kromatin akan memadat menjadi struktur kromosom yang lebih tebal tepat sebelum sel mulai membelah.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2059,
+    "term": "Monotremata",
+    "definition": "Kelompok unik dari hewan mamalia primitif yang masih bertelur, bukan melahirkan anak secara langsung.",
+    "example": "Platipus dan Echidna adalah dua hewan mamalia langka yang masuk dalam kelas monotremata.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2060,
+    "term": "Totipotensi",
+    "definition": "Kemampuan luar biasa dari sebuah sel tunggal untuk membelah dan menghasilkan semua jaringan hingga membentuk organisme baru yang utuh.",
+    "example": "Teori kultur jaringan tanaman modern sangat bergantung pada pemanfaatan sifat totipotensi pada sel tumbuhan.",
+    "category": "Botani"
+  }
+    {
+    "id": 2061,
+    "term": "Abdomen",
+    "definition": "Bagian tubuh makhluk hidup yang berada di antara toraks (dada) dan panggul, atau biasa disebut sebagai perut.",
+    "example": "Pada serangga, abdomen merupakan bagian belakang yang berisi organ pencernaan dan reproduksi.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2062,
+    "term": "Basa Nitrogen",
+    "definition": "Molekul organik yang mengandung nitrogen dan bertindak sebagai basa penyusun asam nukleat (DNA dan RNA).",
+    "example": "Adenin, timin, guanin, sitosin, dan urasil adalah lima basa nitrogen utama penyusun materi genetik.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2063,
+    "term": "Kapsid",
+    "definition": "Selubung protein pelindung luar yang membungkus dan melindungi materi genetik dari sebuah virus.",
+    "example": "Bentuk struktur kapsid virus bisa bermacam-macam, mulai dari heliks hingga ikosahedral kompleks.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2064,
+    "term": "Diafragma",
+    "definition": "Otot berbentuk kubah di dasar rongga dada manusia dan mamalia yang berperan utama dalam proses pernapasan.",
+    "example": "Saat Anda menarik napas, diafragma akan berkontraksi dan bergerak ke bawah untuk memberi ruang bagi paru-paru.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2065,
+    "term": "Ekskresi",
+    "definition": "Proses biologis pembuangan zat-zat sisa metabolisme yang sudah tidak berguna atau beracun dari dalam tubuh.",
+    "example": "Ginjal adalah organ ekskresi utama manusia yang bertugas menyaring darah dan membuang limbah dalam bentuk urine.",
+    "category": "Fisiologi"
+  },
+  {
+    "id": 2066,
+    "term": "Fasiasi",
+    "definition": "Kondisi kelainan pertumbuhan pada tanaman di mana bagian batang atau bunga memipih, membesar, atau berubah bentuk menjadi aneh.",
+    "example": "Fenomena fasiasi sering membuat ujung ranting tanaman terlihat menyerupai sapu yang berdesakan.",
+    "category": "Botani"
+  },
+  {
+    "id": 2067,
+    "term": "Glikolisis",
+    "definition": "Tahap pertama pemecahan glukosa (gula) menjadi asam piruvat di dalam sitoplasma untuk menghasilkan molekul ATP.",
+    "example": "Glikolisis dapat terjadi baik dalam keadaan ada oksigen (aerob) maupun tanpa oksigen (anaerob).",
+    "category": "Seluler"
+  },
+  {
+    "id": 2068,
+    "term": "Hermaprodit",
+    "definition": "Organisme biologis yang memiliki organ reproduksi jantan dan betina sekaligus dalam satu tubuh secara alami.",
+    "example": "Cacing tanah adalah hewan hermaprodit yang saling bertukar sperma saat melakukan reproduksi.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2069,
+    "term": "Inokulasi",
+    "definition": "Proses memindahkan biakan mikrobia, serum, atau patogen hidup ke dalam organisme inang atau medium biakan baru.",
+    "example": "Ilmuwan melakukan inokulasi bakteri ke cawan petri yang baru untuk dibiakkan semalaman.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2070,
+    "term": "Jaringan Epitel",
+    "definition": "Jaringan pelindung yang menutupi permukaan tubuh, rongga, dan saluran organ di dalam maupun luar tubuh hewan.",
+    "example": "Kulit bagian luar manusia sepenuhnya tersusun atas berlapis-lapis jaringan epitel pipih berlapis.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2071,
+    "term": "Klorofil",
+    "definition": "Pigmen hijau alami pada tanaman, alga, dan cyanobacteria yang menyerap energi cahaya untuk memicu proses fotosintesis.",
+    "example": "Klorofil paling efektif menyerap gelombang cahaya biru dan merah, namun memantulkan cahaya hijau.",
+    "category": "Botani"
+  },
+  {
+    "id": 2072,
+    "term": "Lokomosi",
+    "definition": "Kemampuan organisme bergerak sendiri dari satu tempat ke tempat lain secara aktif dengan menggunakan energinya.",
+    "example": "Metode lokomosi pada setiap hewan berbeda-beda, meliputi terbang, berenang, merayap, hingga berjalan tegak.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2073,
+    "term": "Mutagen",
+    "definition": "Agen fisik atau kimiawi yang dapat memicu atau meningkatkan frekuensi terjadinya mutasi pada materi genetik (DNA).",
+    "example": "Radiasi sinar ultraviolet dan zat kimia asbes adalah contoh mutagen berbahaya yang bisa memicu kanker.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2074,
+    "term": "Nekrosis",
+    "definition": "Kematian sel atau jaringan hidup yang tidak wajar akibat cedera, penyakit, racun, atau kurangnya pasokan darah (oksigen).",
+    "example": "Gigitan ular berbisa bisa menyebabkan nekrosis hebat pada jaringan otot di sekitar luka gigitan.",
+    "category": "Fisiologi"
+  },
+  {
+    "id": 2075,
+    "term": "Ornitologi",
+    "definition": "Cabang ilmu dari zoologi yang khusus meneliti, mempelajari, dan mengklasifikasikan burung-burung di seluruh dunia.",
+    "example": "Para ahli ornitologi menemukan pola migrasi unik dari burung layang-layang saat musim dingin tiba.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2076,
+    "term": "Plasmid",
+    "definition": "Molekul DNA sirkuler ekstra berukuran kecil yang dapat bereplikasi secara mandiri terpisah dari kromosom utama bakteri.",
+    "example": "Plasmid pada bakteri sering kali membawa gen-gen kekebalan terhadap antibiotik.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2077,
+    "term": "Karantina Tumbuhan",
+    "definition": "Tindakan pengawasan dan penahanan terhadap komoditas pertanian untuk mencegah masuk dan menyebarnya organisme pengganggu tumbuhan (Hama).",
+    "example": "Buah impor harus melewati karantina tumbuhan agar penyakit pertanian asing tidak merusak perkebunan lokal.",
+    "category": "Botani"
+  },
+  {
+    "id": 2078,
+    "term": "Ribosom",
+    "definition": "Organel seluler kecil tak bermembran yang berfungsi sebagai tempat terjadinya translasi atau sintesis perakitan rantai asam amino menjadi protein.",
+    "example": "Ribosom dapat ditemukan melayang bebas di sitoplasma maupun menempel pada Retikulum Endoplasma kasar.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2079,
+    "term": "Suksesi Ekologi",
+    "definition": "Proses perubahan struktur spesies di dalam komunitas ekologi yang terjadi secara bertahap dan teratur dari waktu ke waktu.",
+    "example": "Tumbuhnya semak belukar setelah hutan terbakar adalah tahap awal dari terjadinya suksesi ekologi sekunder.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2080,
+    "term": "Trombosit",
+    "definition": "Keping darah berukuran kecil tak berinti yang memainkan peran sangat krusial dalam proses penghentian pendarahan dan pembekuan darah.",
+    "example": "Ketika penderita demam berdarah kekurangan trombosit, mereka akan rentan terhadap perdarahan dalam yang parah.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2081,
+    "term": "Uterus",
+    "definition": "Organ otot berongga dengan dinding tebal pada sistem reproduksi betina mamalia, tempat sel telur yang dibuahi tumbuh dan berkembang.",
+    "example": "Selama kehamilan sembilan bulan, rahim (uterus) manusia dapat mengembang berkali-kali lipat dari ukuran aslinya.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2082,
+    "term": "Vegetatif",
+    "definition": "Bentuk reproduksi atau pertumbuhan tanaman secara aseksual tanpa melalui proses perkawinan antara sel jantan dan betina.",
+    "example": "Petani melakukan pembiakan vegetatif buatan dengan cara mencangkok pohon mangga agar cepat berbuah.",
+    "category": "Botani"
+  },
+  {
+    "id": 2083,
+    "term": "Wallace Line",
+    "definition": "Garis pembatas hayati imajiner yang memisahkan wilayah flora dan fauna Asia dengan wilayah flora fauna Australasia di kepulauan Indonesia.",
+    "example": "Harimau dan badak hanya ada di sebelah barat Garis Wallace, sedangkan kanguru pohon ada di sebelah timurnya.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2084,
+    "term": "Xerofit",
+    "definition": "Spesies tumbuhan yang telah beradaptasi khusus untuk bertahan hidup dalam kondisi lingkungan dengan pasokan air atau kelembaban yang sangat minim.",
+    "example": "Kaktus memiliki jaringan spons penyimpan air dan daun berbentuk duri sebagai bentuk adaptasi tumbuhan xerofit.",
+    "category": "Botani"
+  },
+  {
+    "id": 2085,
+    "term": "Yolk (Kuning Telur)",
+    "definition": "Massa kaya nutrisi, protein, dan lemak di dalam telur hewan yang berfungsi sebagai cadangan makanan utama bagi perkembangan awal embrio.",
+    "example": "Besar kecilnya kuning telur sangat bergantung pada lamanya masa inkubasi embrio di luar tubuh induknya.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2086,
+    "term": "Zoospora",
+    "definition": "Spora berflagela (memiliki ekor bulu cambuk) yang mampu bergerak aktif berenang menembus air, umumnya dihasilkan oleh alga dan jamur air.",
+    "example": "Infeksi jamur parasit Oomycota pada insang ikan disebarkan melalui zoospora yang berenang cepat di dalam kolam.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2087,
+    "term": "Antropogenik",
+    "definition": "Segala efek, dampak, proses, organisme, materi, atau perubahan lingkungan yang merupakan hasil langsung maupun tidak langsung dari aktivitas peradaban manusia.",
+    "example": "Pemanasan global saat ini sangat diyakini didorong oleh polusi udara dari emisi karbon antropogenik.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2088,
+    "term": "Benthos",
+    "definition": "Kelompok komunitas organisme, baik hewan maupun tumbuhan, yang mendiami, merayap, dan menempel pada zona dasar lautan, danau, maupun perairan tawar.",
+    "example": "Bintang laut, teripang, kepiting laut, dan spons laut adalah contoh organisme benthos sejati.",
+    "category": "Ekologi Laut"
+  },
+  {
+    "id": 2089,
+    "term": "Glandula (Kelenjar)",
+    "definition": "Organ berongga yang bertugas mensintesis satu atau lebih zat biologis seperti hormon, keringat, maupun ludah untuk dilepaskan ke dalam atau ke luar tubuh.",
+    "example": "Kelenjar tiroid melepaskan hormon metabolisme langsung ke aliran darah, sementara kelenjar keringat melepaskan cairan ke kulit luar.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2090,
+    "term": "Dendrit",
+    "definition": "Cabang pendek menjari seperti akar pohon dari badan sel saraf utama yang dikhususkan untuk menerima sinyal saraf elektrokimiawi dari sel saraf lainnya.",
+    "example": "Satu sel saraf di otak dapat memiliki ribuan dendrit untuk menerima informasi kompleks secara bersamaan dari seluruh tubuh.",
+    "category": "Anatomi"
+  }
+    {
+    "id": 2091,
+    "term": "Bakterisida",
+    "definition": "Bahan kimia atau zat biologis yang mampu membunuh bakteri secara langsung, bukan sekadar menghambat pertumbuhannya.",
+    "example": "Disinfektan yang sering kita gunakan untuk membersihkan lantai merupakan jenis bakterisida kimia yang sangat kuat.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2092,
+    "term": "Kopulasi",
+    "definition": "Proses penyatuan fisik antara dua individu hewan untuk mentransfer sel sperma dari jantan ke saluran reproduksi betina.",
+    "example": "Kopulasi pada serangga capung sering kali terjadi sambil terbang berpasangan di udara.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2093,
+    "term": "Ekolokasi",
+    "definition": "Kemampuan hewan menggunakan pantulan gelombang suara berfrekuensi tinggi untuk mendeteksi rintangan dan mangsa di sekitarnya.",
+    "example": "Kelelawar dan lumba-lumba sangat bergantung pada ekolokasi untuk berburu mangsa dalam kondisi minim cahaya.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2094,
+    "term": "Fitoplankton",
+    "definition": "Komponen plankton fotosintetik berukuran sangat kecil yang mengambang bebas di perairan dan berperan sebagai produsen utama ekosistem laut.",
+    "example": "Ledakan populasi fitoplankton (algal bloom) dapat menyebabkan perubahan warna air laut menjadi kehijauan atau kemerahan.",
+    "category": "Ekologi Laut"
+  },
+  {
+    "id": 2095,
+    "term": "Gigantisme",
+    "definition": "Kondisi pertumbuhan tubuh berlebihan yang tidak normal pada makhluk hidup, seringkali disebabkan oleh sekresi hormon pertumbuhan yang berlebih.",
+    "example": "Pada manusia, gigantisme biasanya muncul sejak masa kanak-kanak karena adanya tumor jinak pada kelenjar pituitari.",
+    "category": "Patologi"
+  },
+  {
+    "id": 2096,
+    "term": "Heterotrof",
+    "definition": "Organisme biologis yang tidak dapat mensintesis makanannya sendiri sehingga harus memakan tumbuhan atau hewan lain untuk mendapatkan nutrisi.",
+    "example": "Singa, jamur, dan manusia adalah beberapa contoh makhluk hidup heterotrof.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2097,
+    "term": "Imunitas Pasif",
+    "definition": "Perlindungan kekebalan tubuh yang diperoleh sementara melalui transfer antibodi siap pakai dari individu atau sumber lain.",
+    "example": "Bayi yang baru lahir mendapatkan imunitas pasif dari antibodi ibunya melalui air susu ibu (ASI).",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2098,
+    "term": "Kutikula",
+    "definition": "Lapisan lilin tipis tak tembus air yang menutupi bagian epidermis daun dan batang pada tanaman darat.",
+    "example": "Kutikula sangat tebal pada tanaman kaktus gurun untuk meminimalkan penguapan air di bawah terik matahari.",
+    "category": "Botani"
+  },
+  {
+    "id": 2099,
+    "term": "Ligamen",
+    "definition": "Pita jaringan ikat fibrosa yang sangat kuat dan fleksibel, berfungsi mengikat tulang dengan tulang lainnya di sekitar persendian.",
+    "example": "Cedera robeknya ligamen lutut sangat ditakuti oleh para atlet sepak bola profesional.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2100,
+    "term": "Mutasi Somatik",
+    "definition": "Perubahan materi genetik yang terjadi pada sel-sel tubuh biasa (bukan sel kelamin), sehingga tidak dapat diwariskan kepada keturunannya.",
+    "example": "Mutasi somatik pada sel kulit akibat paparan radiasi UV berlebihan dapat memicu pertumbuhan kanker kulit melanoma.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2101,
+    "term": "Nukleolus",
+    "definition": "Struktur padat berbentuk bulat di dalam inti sel (nukleus) yang bertugas utama merakit komponen-komponen ribosom.",
+    "example": "Sel yang aktif memproduksi protein biasanya memiliki nukleolus yang ukurannya lebih besar.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2102,
+    "term": "Omnivora",
+    "definition": "Makhluk hidup pemakan segala yang memiliki sistem pencernaan adaptif untuk memecah materi tumbuhan maupun daging hewan.",
+    "example": "Beruang, babi, tikus, dan manusia diklasifikasikan sebagai hewan omnivora yang sangat oportunistik.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2103,
+    "term": "Parasitoid",
+    "definition": "Organisme yang selama fase perkembangannya hidup sebagai parasit di dalam atau di tubuh inang, dan akhirnya membunuh inang tersebut.",
+    "example": "Tawon parasitoid sering meletakkan telurnya ke dalam tubuh ulat; setelah menetas larva tawon memakan ulat dari dalam.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2104,
+    "term": "Reseptor",
+    "definition": "Struktur molekul protein khusus, baik di permukaan sel maupun saraf, yang dapat menerima dan mengikat sinyal kimia atau rangsangan dari lingkungan.",
+    "example": "Reseptor penciuman di hidung mamalia sangat peka mengenali berbagai macam partikel aroma kimia di udara.",
+    "category": "Fisiologi"
+  },
+  {
+    "id": 2105,
+    "term": "Saprobion",
+    "definition": "Mikroorganisme (seperti jamur dan bakteri) yang mendapatkan nutrisi dengan cara menguraikan materi organik mati atau materi yang membusuk.",
+    "example": "Keberadaan saprobion di lantai hutan sangat penting untuk mendaur ulang nutrisi dedaunan mati agar bisa diserap lagi oleh pepohonan.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2106,
+    "term": "Takotaksis",
+    "definition": "Gerakan sel atau organisme biologis baik menjauhi atau mendekati sumber rangsangan (seperti cahaya atau zat kimia) secara terarah.",
+    "example": "Bakteri menunjukkan sifat kemotaksis positif dengan berenang mengarah menuju lokasi gula.",
+    "category": "Biologi Dasar"
+  },
+  {
+    "id": 2107,
+    "term": "Vaskularisasi",
+    "definition": "Proses pembentukan atau penyebaran pembuluh darah baru ke dalam suatu jaringan hidup atau organ tertentu.",
+    "example": "Jaringan tumor ganas memicu vaskularisasi masif agar ia mendapatkan suplai oksigen dan nutrisi yang cukup untuk membesar.",
+    "category": "Patologi"
+  },
+  {
+    "id": 2108,
+    "term": "Xenobiotik",
+    "definition": "Senyawa bahan kimia asing yang masuk ke dalam tubuh makhluk hidup, yang biasanya tidak diproduksi secara alami atau tidak diharapkan ada di sana.",
+    "example": "Obat-obatan sintetik, pestisida, dan pewarna buatan merupakan senyawa xenobiotik yang umumnya disaring oleh organ hati.",
+    "category": "Fisiologi"
+  },
+  {
+    "id": 2109,
+    "term": "Kromosom Homolog",
+    "definition": "Sepasang kromosom di dalam sel diploid yang memiliki ukuran, bentuk, dan susunan lokus gen yang sama persis (satu dari ayah, satu dari ibu).",
+    "example": "Selama profase I dalam pembelahan meiosis, kromosom homolog akan berpasangan dan saling bertukar materi genetik.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2110,
+    "term": "Tingkat Trofik",
+    "definition": "Posisi terstruktur yang ditempati oleh suatu organisme di dalam rantai atau jaring-jaring makanan pada sebuah ekosistem.",
+    "example": "Tumbuhan berada pada tingkat trofik pertama sebagai produsen, sedangkan harimau berada pada tingkat trofik puncak sebagai karnivora.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2111,
+    "term": "Avertebrata (Invertebrata)",
+    "definition": "Kelompok hewan yang tidak memiliki tulang belakang atau ruas-ruas tulang punggung di dalam tubuhnya.",
+    "example": "Siput, laba-laba, cumi-cumi, dan ubur-ubur adalah beberapa contoh umum dari hewan avertebrata.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2112,
+    "term": "Glikoprotein",
+    "definition": "Molekul kompleks yang terdiri dari protein dengan rantai karbohidrat (oligosakarida) yang berikatan secara kovalen pada tubuhnya.",
+    "example": "Banyak protein permukaan pada virus penyebab infeksi yang berwujud glikoprotein untuk membantunya mengelabui sel manusia.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2113,
+    "term": "Polinasi",
+    "definition": "Proses biologi jatuhnya serbuk sari dari kepala sari (jantan) ke kepala putik (betina) pada bunga tanaman angiospermae atau gymnospermae.",
+    "example": "Lebah memainkan peran sangat besar sebagai agen serangga polinator yang membantu proses polinasi ribuan jenis tanaman apel.",
+    "category": "Botani"
+  },
+  {
+    "id": 2114,
+    "term": "Bakteri Gram-Positif",
+    "definition": "Bakteri yang mempertahankan warna ungu saat diuji dengan pewarnaan Gram karena memiliki dinding peptidoglikan yang sangat tebal.",
+    "example": "Staphylococcus aureus adalah contoh bakteri Gram-Positif yang sering menyebabkan infeksi luka pada manusia.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2115,
+    "term": "Miofibril",
+    "definition": "Serabut-serabut silindris kecil di dalam serat sel otot yang terbuat dari filamen tipis aktin dan filamen tebal miosin untuk kontraksi.",
+    "example": "Pergerakan bergeser antar protein di dalam miofibril-lah yang membuat seluruh otot kita menegang dan berkontraksi.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2116,
+    "term": "Ekstirpasi",
+    "definition": "Kondisi hilangnya (kepunahan lokal) suatu spesies dari wilayah geografis tertentu, meskipun spesies itu mungkin masih ada di benua lain.",
+    "example": "Harimau Jawa dan Harimau Bali telah mengalami kepunahan total, sedangkan Harimau Sumatera nyaris menghadapi ekstirpasi jika tidak dilindungi.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2117,
+    "term": "Fosforilasi Oksidatif",
+    "definition": "Proses sintesis energi ATP di membran mitokondria yang didorong oleh transfer elektron menuju oksigen sebagai penerima akhir.",
+    "example": "Tahap fosforilasi oksidatif adalah proses penyumbang jumlah ATP paling masif dalam seluruh rantai respirasi seluler.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2118,
+    "term": "Limfa (Getah Bening)",
+    "definition": "Cairan bening tak berwarna yang mengalir di dalam sistem pembuluh limfatik, mengandung banyak sel darah putih pemakan kuman.",
+    "example": "Pembengkakan kelenjar limfa di leher sering menjadi pertanda bahwa sistem imun sedang bertarung hebat melawan bakteri.",
+    "category": "Anatomi"
+  },
+  {
+    "id": 2119,
+    "term": "Fotoperiodisme",
+    "definition": "Respons fisiologis organisme (biasanya tumbuhan) terhadap perubahan panjang periode pencahayaan terang dan periode gelap setiap harinya.",
+    "example": "Beberapa bunga aster hanya akan mekar (fotoperiodisme hari pendek) saat panjang hari menjadi lebih singkat menuju musim gugur.",
+    "category": "Botani"
+  },
+  {
+    "id": 2120,
+    "term": "Zoosfer",
+    "definition": "Seluruh lapisan bumi dan ruang angkasa tepat di atasnya di mana hewan (fauna) dapat ditemukan hidup.",
+    "example": "Zoosfer meliputi hewan di dasar samudra paling dalam hingga burung condor yang terbang melintasi pegunungan Andes yang tinggi.",
+    "category": "Zoologi"
+  }
 ]
