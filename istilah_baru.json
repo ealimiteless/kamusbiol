@@ -1,5 +1,3613 @@
 [
   {
+    "id": 1,
+    "term": "Abiosis",
+    "definition": "Ketiadaan kehidupan; kondisi di mana tidak ada makhluk hidup yang dapat bertahan.",
+    "example": "Lautan yang sangat dalam dan bertekanan tinggi terkadang dianggap sebagai zona abiosis.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 2,
+    "term": "Bakteri",
+    "definition": "Organisme bersel satu yang sangat kecil dan dapat ditemukan di mana-mana.",
+    "example": "Beberapa bakteri membantu pencernaan manusia, sementara yang lain menyebabkan penyakit.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 3,
+    "term": "Chlorophyll",
+    "definition": "Zat hijau daun yang membantu tanaman mengubah sinar matahari menjadi energi.",
+    "example": "Tanpa klorofil, tanaman tidak bisa melakukan fotosintesis.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 4,
+    "term": "DNA",
+    "definition": "Molekul yang membawa informasi genetik dari setiap makhluk hidup.",
+    "example": "Setiap manusia memiliki struktur DNA yang unik.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 5,
+    "term": "Ekosistem",
+    "definition": "Sistem hubungan timbal balik antara makhluk hidup dengan lingkungannya.",
+    "example": "Hutan hujan tropis adalah salah satu ekosistem paling beragam di dunia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 6,
+    "term": "Fotosintesis",
+    "definition": "Proses pembuatan makanan oleh tanaman hijau menggunakan energi matahari.",
+    "example": "Fotosintesis menghasilkan oksigen yang kita hirup.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 7,
+    "term": "Genetika",
+    "definition": "Cabang biologi yang mempelajari pewarisan sifat dari orang tua ke keturunannya.",
+    "example": "Warna mata kita ditentukan oleh faktor genetika.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 8,
+    "term": "Hemoglobin",
+    "definition": "Protein dalam sel darah merah yang bertugas membawa oksigen ke seluruh tubuh.",
+    "example": "Kekurangan hemoglobin dapat menyebabkan anemia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 9,
+    "term": "Imunisasi",
+    "definition": "Proses pemberian vaksin untuk membentuk kekebalan tubuh terhadap penyakit.",
+    "example": "Imunisasi anak sangat penting untuk mencegah wabah penyakit menular.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 10,
+    "term": "Jaringan",
+    "definition": "Kelompok sel yang memiliki bentuk dan fungsi yang sama.",
+    "example": "Jaringan otot memungkinkan kita untuk bergerak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 11,
+    "term": "Kromosom",
+    "definition": "Struktur pembawa informasi genetik yang berada di dalam inti sel.",
+    "example": "Manusia normal memiliki 23 pasang kromosom.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 12,
+    "term": "Limfa",
+    "definition": "Cairan bening dalam tubuh yang berperan dalam sistem pertahanan tubuh.",
+    "example": "Sistem limfa membantu tubuh melawan infeksi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 13,
+    "term": "Membran Sel",
+    "definition": "Lapisan tipis yang menyelimuti sel dan mengatur keluar masuknya zat.",
+    "example": "Membran sel bersifat selektif permeabel terhadap berbagai molekul.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 14,
+    "term": "Nukleus",
+    "definition": "Pusat pengendali kegiatan sel yang berisi materi genetik.",
+    "example": "Nukleus mengarahkan semua aktivitas pertumbuhan dan reproduksi sel.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 15,
+    "term": "Organisme",
+    "definition": "Segala makhluk hidup yang dapat bernapas, bertumbuh, dan berkembang biak.",
+    "example": "Semut adalah contoh organisme yang sangat terorganisir.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 16,
+    "term": "Patogen",
+    "definition": "Mikroorganisme atau benda asing yang dapat menyebabkan penyakit.",
+    "example": "Virus influenza adalah salah satu patogen yang menyerang saluran pernapasan.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 17,
+    "term": "Ribosom",
+    "definition": "Organel sel yang berfungsi sebagai tempat pembentukan protein.",
+    "example": "Ribosom sangat penting untuk sintesis protein dalam setiap sel makhluk hidup.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 18,
+    "term": "Stomata",
+    "definition": "Lubang-lubang kecil pada daun yang berfungsi sebagai tempat pertukaran gas.",
+    "example": "Stomata membuka saat proses fotosintesis sedang berlangsung.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 19,
+    "term": "Transpirasi",
+    "definition": "Proses penguapan air dari permukaan tanaman ke atmosfer.",
+    "example": "Transpirasi membantu tanaman mengatur suhunya di bawah sinar matahari.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 20,
+    "term": "Ulkus",
+    "definition": "Luka terbuka pada kulit atau selaput lendir yang seringkali sulit sembuh.",
+    "example": "Penderita penyakit lambung sering mengalami ulkus pada dinding lambungnya.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 21,
+    "term": "Vakuola",
+    "definition": "Rongga di dalam sel yang biasanya berisi air atau cadangan makanan.",
+    "example": "Sel tumbuhan memiliki vakuola sentral yang sangat besar.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 22,
+    "term": "Xilem",
+    "definition": "Jaringan pembuluh angkut pada tanaman yang menyalurkan air dari akar ke daun.",
+    "example": "Air dari tanah dapat naik ke daun pohon yang tinggi melalui jaringan xilem.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 23,
+    "term": "Zigot",
+    "definition": "Sel hasil peleburan antara sel telur dan sel sperma.",
+    "example": "Zigot akan berkembang menjadi embrio seiring berjalannya waktu.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 24,
+    "term": "Aerob",
+    "definition": "Proses atau organisme yang membutuhkan oksigen untuk bertahan hidup.",
+    "example": "Manusia bernapas secara aerob karena membutuhkan oksigen.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 25,
+    "term": "Biodiversitas",
+    "definition": "Keanekaragaman makhluk hidup yang ada di bumi ini.",
+    "example": "Indonesia memiliki keanekaragaman biodiversitas yang sangat tinggi di dunia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 26,
+    "term": "Alga",
+    "definition": "Organisme fotosintetik sederhana yang hidup di air, mulai dari bersel satu hingga rumput laut besar.",
+    "example": "Alga hijau sering ditemukan di kolam dan danau.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 27,
+    "term": "Amoeba",
+    "definition": "Organisme uniseluler yang bergerak dengan cara mengubah bentuk tubuhnya melalui pseudopodia.",
+    "example": "Amoeba proteus adalah spesies yang sering dipelajari di laboratorium biologi.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 28,
+    "term": "Antibodi",
+    "definition": "Protein khusus yang dihasilkan sistem imun untuk mengenali dan melawan benda asing seperti virus.",
+    "example": "Antibodi membantu tubuh kita menjadi kebal setelah sembuh dari sakit.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 29,
+    "term": "Antigen",
+    "definition": "Zat asing (seperti protein pada permukaan virus) yang memicu respons sistem imun tubuh.",
+    "example": "Vaksin mengandung antigen yang sudah dilemahkan untuk melatih tentara tubuh.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 30,
+    "term": "Arkea",
+    "definition": "Domain mikroorganisme bersel satu yang sering ditemukan di lingkungan ekstrem.",
+    "example": "Beberapa arkea hidup di kawah gunung berapi yang sangat panas.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 31,
+    "term": "Artropoda",
+    "definition": "Filum hewan dengan kaki beruas-ruas, termasuk serangga, laba-laba, dan udang.",
+    "example": "Kupu-kupu adalah salah satu jenis artropoda yang memiliki sayap indah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 32,
+    "term": "Asam Amino",
+    "definition": "Unit dasar atau 'blok bangunan' penyusun molekul protein.",
+    "example": "Ada 20 jenis asam amino standar yang menyusun protein dalam tubuh manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 33,
+    "term": "ATP",
+    "definition": "Adenosina Trifosfat; molekul pembawa energi utama di dalam sel makhluk hidup.",
+    "example": "Mitokondria adalah tempat utama produksi ATP melalui respirasi sel.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 34,
+    "term": "Autotrof",
+    "definition": "Organisme yang mampu membuat makanannya sendiri dari bahan anorganik menggunakan energi matahari.",
+    "example": "Tanaman adalah contoh utama organisme autotrof.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 35,
+    "term": "Bioma",
+    "definition": "Area geografis besar yang memiliki iklim serta tipe flora dan fauna yang khas.",
+    "example": "Bioma gurun ditandai dengan curah hujan yang sangat rendah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 36,
+    "term": "Biosfer",
+    "definition": "Seluruh lapisan bumi yang dihuni oleh makhluk hidup, termasuk udara, darat, dan air.",
+    "example": " Biosfer mencakup kedalaman laut hingga puncak gunung yang tinggi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 37,
+    "term": "Bioteknologi",
+    "definition": "Pemanfaatan makhluk hidup atau sistem biologi untuk menciptakan produk bermanfaat.",
+    "example": "Pembuatan tempe dan yogurt adalah contoh bioteknologi konvensional.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 38,
+    "term": "Blastula",
+    "definition": "Tahap awal perkembangan embrio yang berbentuk bola sel berongga.",
+    "example": "Tahap blastula terjadi setelah pembelahan sel zigot yang berulang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 39,
+    "term": "Bryophyta",
+    "definition": "Filum tumbuhan lumut yang tidak memiliki pembuluh angkut sejati.",
+    "example": "Lumut daun sering ditemukan di tempat yang lembap dan teduh.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 40,
+    "term": "Citoplasma",
+    "definition": "Cairan di dalam sel yang mengisi ruang antara membran sel dan nukleus.",
+    "example": "Banyak reaksi kimia penting sel terjadi di dalam sitoplasma.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 41,
+    "term": "Coelenterata",
+    "definition": "Hewan berongga yang hidup di air, seperti ubur-ubur dan anemon laut.",
+    "example": "Ubur-ubur menggunakan sel penyengatnya untuk menangkap mangsa.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 42,
+    "term": "Difusi",
+    "definition": "Perpindahan molekul dari area konsentrasi tinggi ke konsentrasi rendah secara pasif.",
+    "example": "Pertukaran oksigen di paru-paru terjadi melalui proses difusi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 43,
+    "term": "Diploid",
+    "definition": "Kondisi sel yang memiliki dua set lengkap kromosom (2n).",
+    "example": "Sebagian besar sel tubuh manusia adalah sel diploid.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 44,
+    "term": "Eukariot",
+    "definition": "Organisme yang sel-selnya memiliki nukleus yang terbungkus membran.",
+    "example": "Hewan, tumbuhan, dan jamur semuanya termasuk eukariot.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 45,
+    "term": "Evolusi",
+    "definition": "Proses perubahan sifat-sifat makhluk hidup secara bertahap dalam waktu yang sangat lama.",
+    "example": "Teori evolusi menjelaskan bagaimana keragaman spesies muncul di bumi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 46,
+    "term": "Filum",
+    "definition": "Tingkat klasifikasi di bawah kingdom dan di atas kelas.",
+    "example": "Chordata adalah filum yang mencakup hewan bertulang belakang.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 47,
+    "term": "Fisiologi",
+    "definition": "Ilmu yang mempelajari fungsi organ dan sistem kerja di dalam tubuh makhluk hidup.",
+    "example": "Fisiologi olahraga mempelajari respons tubuh terhadap aktivitas fisik.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 48,
+    "term": "Gastrula",
+    "definition": "Tahap perkembangan embrio di mana sel-sel mulai membentuk lapisan dasar tubuh.",
+    "example": "Pada tahap gastrula, terbentuk lapisan ektoderm, mesoderm, dan endoderm.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 49,
+    "term": "Genotipe",
+    "definition": "Susunan genetik dasar dari suatu organisme yang tidak selalu tampak dari luar.",
+    "example": "Genotipe menentukan potensi sifat yang bisa diwariskan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 50,
+    "term": "Haploid",
+    "definition": "Kondisi sel yang hanya memiliki satu set kromosom (n).",
+    "example": "Sel sperma dan sel telur pada manusia memiliki jumlah kromosom haploid.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 51,
+    "term": "Herbivora",
+    "definition": "Hewan yang sumber makanan utamanya adalah tumbuh-tumbuhan.",
+    "example": "Sapi dan kambing adalah contoh hewan herbivora.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 52,
+    "term": "Heterotrof",
+    "definition": "Organisme yang tidak dapat membuat makanannya sendiri dan bergantung pada organisme lain.",
+    "example": "Singa adalah heterotrof karena memakan rusa.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 53,
+    "term": "Homeostasis",
+    "definition": "Proses pengaturan internal tubuh untuk menjaga kondisi tetap stabil dan seimbang.",
+    "example": "Berkeringat adalah cara tubuh menjaga homeostasis suhu saat cuaca panas.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 54,
+    "term": "Hormon",
+    "definition": "Zat kimia yang dilepaskan ke aliran darah untuk mengirim pesan ke organ tubuh.",
+    "example": "Insulin adalah hormon yang mengatur kadar gula dalam darah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 55,
+    "term": "Invertebrata",
+    "definition": "Kelompok hewan yang tidak memiliki tulang belakang.",
+    "example": "Cacing, gurita, dan belalang termasuk dalam kelompok invertebrata.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 56,
+    "term": "Karnivora",
+    "definition": "Hewan yang sumber makanan utamanya adalah daging atau hewan lain.",
+    "example": "Harimau adalah predator karnivora yang menduduki puncak rantai makanan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 57,
+    "term": "Kloroplas",
+    "definition": "Organel dalam sel tumbuhan yang mengandung klorofil dan tempat terjadinya fotosintesis.",
+    "example": "Kloroplas memberikan warna hijau pada daun tanaman.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 58,
+    "term": "Komunitas",
+    "definition": "Kumpulan berbagai populasi yang hidup dan berinteraksi di area yang sama.",
+    "example": "Komunitas sawah terdiri dari padi, tikus, ular, dan burung prenjak.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 59,
+    "term": "Lipid",
+    "definition": "Kelompok molekul alami yang mencakup lemak, minyak, dan lilin.",
+    "example": "Lipid berfungsi sebagai cadangan energi jangka panjang dan penyusun membran sel.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 60,
+    "term": "Meiosis",
+    "definition": "Proses pembelahan sel yang menghasilkan sel anak dengan jumlah kromosom setengah dari induknya.",
+    "example": "Meiosis sangat penting untuk pembentukan sel kelamin.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 61,
+    "term": "Mitosis",
+    "definition": "Proses pembelahan sel yang menghasilkan dua sel anak identik dengan sel induknya.",
+    "example": "Mitosis bertanggung jawab atas pertumbuhan dan perbaikan sel yang rusak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 62,
+    "term": "Monera",
+    "definition": "Kingdom yang mencakup organisme prokariotik bersel satu, seperti bakteri.",
+    "example": "Dalam klasifikasi lima kingdom, bakteri dimasukkan ke dalam Monera.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 63,
+    "term": "Mutasi",
+    "definition": "Perubahan acak pada urutan DNA yang dapat menyebabkan variasi baru pada makhluk hidup.",
+    "example": "Beberapa mutasi bisa bersifat menguntungkan, merugikan, atau netral.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 64,
+    "term": "Omnivora",
+    "definition": " Hewan yang memakan tumbuh-tumbuhan sekaligus daging/hewan lain.",
+    "example": "Ayam dan beruang adalah contoh makhluk hidup omnivora.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 65,
+    "term": "Organ",
+    "definition": "Kumpulan beberapa jenis jaringan yang bekerja sama untuk melakukan fungsi tertentu.",
+    "example": "Jantung adalah organ yang berfungsi memompa darah ke seluruh tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 66,
+    "term": "Osmosis",
+    "definition": "Perpindahan pelarut (air) melalui membran selektif permeabel dari area encer ke area pekat.",
+    "example": "Penyerapan air oleh akar tanaman terjadi melalui proses osmosis.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 67,
+    "term": "Paleontologi",
+    "definition": "Ilmu yang mempelajari sejarah kehidupan di bumi melalui catatan fosil.",
+    "example": "Fosil dinosaurus dipelajari secara mendalam dalam bidang paleontologi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 68,
+    "term": "Populasi",
+    "definition": "Kelompok individu dari spesies yang sama yang hidup di wilayah tertentu pada waktu yang sama.",
+    "example": "Populasi gajah di Taman Nasional Way Kambas terus dipantau.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 69,
+    "term": "Prokariot",
+    "definition": "Organisme mikroskopis bersel satu yang tidak memiliki nukleus sejati maupun organel yang terbungkus membran.",
+    "example": "Bakteri dan arkea adalah dua kelompok besar organisme prokariot.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 70,
+    "term": "Protoplasma",
+    "definition": "Bahan hidup di dalam sel yang mencakup sitoplasma dan nukleus.",
+    "example": "Protoplasma dianggap sebagai basis fisik dari segala bentuk kehidupan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 71,
+    "term": "Protista",
+    "definition": "Kingdom yang mencakup organisme eukariotik sederhana yang bukan hewan, tumbuhan, maupun jamur.",
+    "example": "Ganggang dan protozoa adalah bagian dari kingdom Protista.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 72,
+    "term": "Refleks",
+    "definition": "Gerakan otomatis dan cepat yang terjadi sebagai respons terhadap rangsangan tanpa melalui proses berpikir.",
+    "example": "Menarik tangan saat menyentuh benda panas adalah contoh gerak refleks.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 73,
+    "term": "Taksonomi",
+    "definition": "Ilmu yang mempelajari prinsip, prosedur, dan aturan dalam pengelompokan makhluk hidup.",
+    "example": "Dalam taksonomi, sistem binomial nomenklatur digunakan untuk pemberian nama ilmiah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 74,
+    "term": "Vertebrata",
+    "definition": "Subfilum dari Chordata yang mencakup semua hewan yang memiliki tulang belakang.",
+    "example": "Ikan, amfibi, reptil, burung, dan mamalia semuanya adalah vertebrata.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 75,
+    "term": "Virus",
+    "definition": "Agen infeksi berukuran sangat kecil yang hanya dapat berkembang biak di dalam sel inang yang hidup.",
+    "example": "Virus COVID-19 menyerang sistem pernapasan manusia.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 76,
+    "term": "Adaptasi",
+    "definition": "Penyesuaian diri makhluk hidup terhadap lingkungan sekitarnya untuk bertahan hidup.",
+    "example": "Bentuk paruh burung adalah contoh adaptasi terhadap jenis makanannya.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 77,
+    "term": "Angiospermae",
+    "definition": "Kelompok tumbuhan yang memiliki biji tertutup di dalam bakal buah.",
+    "example": "Sebagian besar tanaman bunga termasuk dalam kelompok angiospermae.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 78,
+    "term": "Arteri",
+    "definition": "Pembuluh darah yang membawa darah kaya oksigen keluar dari jantung.",
+    "example": "Arteri pulmonalis adalah pengecualian karena membawa darah kaya karbon dioksida.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 79,
+    "term": "Botani",
+    "definition": "Cabang ilmu biologi yang khusus mempelajari tanaman dan kehidupannya.",
+    "example": "Seorang ahli botani meneliti cara tanaman obat tumbuh di hutan.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 80,
+    "term": "Dendrit",
+    "definition": "Serabut saraf pendek yang berfungsi menerima rangsangan dari sel lain menuju badan sel.",
+    "example": "Dendrit menyerupai cabang-cabang pohon yang menangkap sinyal saraf.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 81,
+    "term": "Enzim",
+    "definition": "Biokatalisator organik yang mempercepat reaksi kimia di dalam sel tubuh.",
+    "example": "Enzim amilase di ludah membantu memecah karbohidrat menjadi gula.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 82,
+    "term": "Epitel",
+    "definition": "Jaringan yang melapisi permukaan tubuh atau organ dalam sebagai pelindung.",
+    "example": "Jaringan epitel pada kulit mencegah masuknya kuman ke dalam tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 83,
+    "term": "Ekskresi",
+    "definition": "Proses pengeluaran zat-zat sisa metabolisme yang sudah tidak berguna bagi tubuh.",
+    "example": " Ginjal melakukan ekskresi dengan menyaring darah dan menghasilkan urine.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 84,
+    "term": "Fertilisasi",
+    "definition": "Proses peleburan antara sel telur dan sel sperma (pembuahan).",
+    "example": "Fertilisasi pada manusia biasanya terjadi di dalam saluran tuba falopi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 85,
+    "term": "Gymnospermae",
+    "definition": "Tumbuhan berbiji terbuka di mana bijinya tidak tertutup oleh bakal buah.",
+    "example": "Pohon pinus dan melinjo adalah contoh tumbuhan gymnospermae.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 86,
+    "term": "Habitat",
+    "definition": "Tempat alami di mana suatu organisme atau spesies hidup dan berkembang biak.",
+    "example": "Habitat asli orang utan adalah hutan hujan tropis yang lebat.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 87,
+    "term": "Hibernasi",
+    "definition": "Kondisi tidur panjang atau tidak aktif selama musim dingin untuk menghemat energi.",
+    "example": "Beruang kutub melakukan hibernasi untuk bertahan hidup di suhu yang sangat dingin.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 88,
+    "term": "Kambium",
+    "definition": "Lapisan sel pada batang tumbuhan dikotil yang memungkinkan pertumbuhan melebar.",
+    "example": "Aktivitas cambium menghasilkan lingkaran tahun pada batang pohon besar.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 89,
+    "term": "Kapiler",
+    "definition": "Pembuluh darah terkecil di mana terjadi pertukaran oksigen dan nutrisi dengan sel.",
+    "example": "Dinding pembuluh kapiler sangat tipis sehingga mudah ditembus molekul gas.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 90,
+    "term": "Karbohidrat",
+    "definition": "Senyawa organik yang berfungsi sebagai sumber energi utama bagi makhluk hidup.",
+    "example": "Nasi dan gandum kaya akan karbohidrat kompleks.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 91,
+    "term": "Kloning",
+    "definition": "Proses menghasilkan individu baru yang identik secara genetik melalui metode aseksual.",
+    "example": "Domba Dolly adalah hasil kloning pertama yang sangat terkenal di dunia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 92,
+    "term": "Korteks",
+    "definition": "Lapisan luar dari organ tertentu, seperti batang tanaman atau ginjal manusia.",
+    "example": "Korteks ginjal mengandung jutaan nefron untuk penyaringan darah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 93,
+    "term": "Mamalia",
+    "definition": "Kelas hewan menyusui yang memiliki kelenjar susu dan rambut pada tubuhnya.",
+    "example": "Paus dan lumba-lumba adalah hewan laut yang termasuk kelompok mamalia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 94,
+    "term": "Metabolisme",
+    "definition": "Seluruh rangkaian reaksi kimia yang terjadi di dalam sel untuk mempertahankan hidup.",
+    "example": "Metabolisme mencakup pembentukan energi dan pembuangan zat sisa.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 95,
+    "term": "Mikrobiologi",
+    "definition": "Ilmu biologi yang mempelajari mikroorganisme yang tidak terlihat mata telanjang.",
+    "example": "Mikrobiologi membantu kita memahami cara kerja virus dan bakteri.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 96,
+    "term": "Mitokondria",
+    "definition": "Organel sel yang berfungsi sebagai pembangkit energi melalui respirasi sel.",
+    "example": "Sel otot memiliki banyak mitokondria karena membutuhkan banyak energi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 97,
+    "term": "Moluska",
+    "definition": "Filum hewan bertubuh lunak, banyak di antaranya memiliki cangkang keras.",
+    "example": "Siput, kerang, dan cumi-cumi adalah contoh dari anggota moluska.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 98,
+    "term": "Morfologi",
+    "definition": "Studi tentang bentuk dan struktur fisik luar dari suatu organisme.",
+    "example": "Morfologi bunga membantu para ilmuwan mengidentifikasi spesies tanaman.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 99,
+    "term": "Niche",
+    "definition": "Peran atau posisi khusus suatu spesies di dalam ekosistem lingkungannya.",
+    "example": "Burung hantu memiliki niche sebagai predator tikus di malam hari.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 100,
+    "term": "Neuron",
+    "definition": "Sel dasar penyusun sistem saraf yang berfungsi menghantarkan impuls listrik.",
+    "example": "Otak manusia terdiri dari miliaran neuron yang terus berkomunikasi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 101,
+    "term": "Ovarium",
+    "definition": "Organ reproduksi betina yang menghasilkan sel telur dan hormon seks.",
+    "example": "Pada tanaman, ovarium akan berkembang menjadi buah setelah pembuahan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 102,
+    "term": "Ovulasi",
+    "definition": "Proses pelepasan sel telur yang sudah matang dari ovarium menuju rahim.",
+    "example": "Ovulasi menandai masa subur dalam siklus reproduksi wanita.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 103,
+    "term": "Pankreas",
+    "definition": "Organ yang menghasilkan enzim pencernaan dan hormon pengatur gula darah.",
+    "example": "Pankreas melepaskan insulin untuk menurunkan kadar gula setelah makan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 104,
+    "term": "Parasit",
+    "definition": "Organisme yang hidup pada atau di dalam organisme lain dan merugikan inangnya.",
+    "example": "Kutu kepala adalah parasit yang mengisap darah dari kulit kepala manusia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 105,
+    "term": "Patologi",
+    "definition": "Cabang ilmu kedokteran yang mempelajari penyebab dan sifat penyakit.",
+    "example": "Laporan patologi membantu dokter mendiagnosis jenis tumor pada pasien.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 106,
+    "term": "Phloem",
+    "definition": "Jaringan pembuluh angkut pada tanaman yang menyalurkan hasil fotosintesis ke seluruh tubuh.",
+    "example": "Gula hasil masakan daun diangkut melalui pembuluh floem ke akar dan batang.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 107,
+    "term": "Pigmen",
+    "definition": "Zat pemberi warna alami pada makhluk hidup, seperti klorofil atau melanin.",
+    "example": "Melanin adalah pigmen yang menentukan warna kulit dan rambut manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 108,
+    "term": "Plankton",
+    "definition": "Organisme mikroskopis yang melayang-layang di air dan terbawa arus laut.",
+    "example": "Plankton adalah sumber makanan utama bagi paus sikat yang besar.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 109,
+    "term": "Predasi",
+    "definition": "Interaksi di mana satu hewan (predator) memburu dan memakan hewan lain (mangsa).",
+    "example": "Predasi membantu menjaga keseimbangan populasi hewan di alam liar.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 110,
+    "term": "Produsen",
+    "definition": "Organisme yang mampu memproduksi makanannya sendiri (autotrof) di awal rantai makanan.",
+    "example": "Tanaman hijau dan alga bertindak sebagai produsen di ekosistem.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 111,
+    "term": "Protein",
+    "definition": "Molekul kompleks yang sangat penting untuk pertumbuhan, perbaikan, dan fungsi sel.",
+    "example": "Daging, telur, dan kacang-kacangan adalah sumber protein yang baik.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 112,
+    "term": "Protozoa",
+    "definition": "Hewan bersel satu yang biasanya hidup di air atau sebagai parasit.",
+    "example": "Plasmodium adalah protozoa yang menyebabkan penyakit malaria.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 113,
+    "term": "Rantai Makanan",
+    "definition": "Urutan peristiwa makan dan dimakan antar makhluk hidup dalam satu arah.",
+    "example": "Rantai makanan dimulai dari produsen, konsumen, hingga pengurai.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 114,
+    "term": "Respirasi",
+    "definition": "Proses pengambilan oksigen dan pengeluaran energi melalui pembakaran bahan makanan di sel.",
+    "example": "Respirasi seluler menghasilkan air dan karbon dioksida sebagai sampingan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 115,
+    "term": "RNA",
+    "definition": "Molekul serupa DNA yang membantu menerjemahkan kode genetik menjadi protein.",
+    "example": "Ribonucleic acid (RNA) sangat penting dalam proses sintesis protein.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 116,
+    "term": "Saprofit",
+    "definition": "Organisme yang hidup dengan cara menguraikan bahan organik dari makhluk hidup yang sudah mati.",
+    "example": "Banyak jenis jamur dan bakteri bertindak sebagai saprofit di lantai hutan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 117,
+    "term": "Sekresi",
+    "definition": "Proses pengeluaran zat yang masih berguna bagi tubuh, seperti hormon atau enzim.",
+    "example": "Kelenjar ludah melakukan sekresi air liur untuk membantu pencernaan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 118,
+    "term": "Selulosa",
+    "definition": "Karbohidrat kompleks penyusun utama dinding sel tumbuhan agar kaku dan kuat.",
+    "example": "Serat dalam makanan kita sebagian besar terdiri dari selulosa tanaman.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 119,
+    "term": "Simbiosis",
+    "definition": "Hubungan hidup bersama yang erat antara dua jenis makhluk hidup yang berbeda.",
+    "example": "Simbiosis mutualisme menguntungkan kedua belah pihak yang terlibat.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 120,
+    "term": "Spesies",
+    "definition": "Tingkatan klasifikasi makhluk hidup yang paling spesifik dan dapat saling kawin.",
+    "example": "Felis catus adalah nama spesies untuk kucing rumahan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 121,
+    "term": "Spora",
+    "definition": "Alat perkembangbiakan pada jamur, lumut, dan paku yang tahan terhadap kondisi ekstrem.",
+    "example": "Spora jamur yang ringan mudah terbawa angin untuk menyebar ke tempat baru.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 122,
+    "term": "Stamen",
+    "definition": "Alat kelamin jantan pada bunga yang menghasilkan serbuk sari (polen).",
+    "example": "Benang sari terdiri dari tangkai sari dan kepala sari yang berisi polen.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 123,
+    "term": "Testis",
+    "definition": "Organ reproduksi jantan yang menghasilkan sperma dan hormon testosteron.",
+    "example": "Testis berada di dalam skrotum untuk menjaga suhu yang optimal bagi sperma.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 124,
+    "term": "Toksin",
+    "definition": "Zat beracun yang dihasilkan oleh organisme hidup sebagai pertahanan atau serangan.",
+    "example": "Banyak ular menggunakan toksin kuat untuk melumpuhkan mangsanya.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 125,
+    "term": "Vena",
+    "definition": "Pembuluh darah yang membawa darah kembali menuju jantung.",
+    "example": "Vena biasanya membawa darah yang kaya akan karbon dioksida.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 126,
+    "term": "Zoologi",
+    "definition": "Cabang biologi yang mempelajari hewan, perilakunya, dan interaksinya di alam.",
+    "example": "Seorang ahli zoologi mengamati migrasi burung di taman nasional.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 127,
+    "term": "Adrenalin",
+    "definition": "Hormon yang dilepaskan dalam situasi stres untuk meningkatkan denyut jantung.",
+    "example": "Adrenalin memicu respons 'fight or flight' saat kita merasa terancam.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 128,
+    "term": "Aklimatisasi",
+    "definition": "Penyesuaian bertahap organisme terhadap perubahan lingkungan yang lambat.",
+    "example": "Pendaki gunung memerlukan aklimatisasi untuk terbiasa dengan kadar oksigen rendah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 129,
+    "term": "Allel",
+    "definition": "Salah satu dari dua atau lebih bentuk alternatif dari suatu gen yang ditemukan pada posisi yang sama.",
+    "example": "Allel untuk mata biru bersifat resesif dibandingkan allel mata cokelat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 130,
+    "term": "Alveolus",
+    "definition": "Kantung udara kecil di paru-paru tempat terjadinya pertukaran gas oksigen dan karbon dioksida.",
+    "example": "Ada jutaan alveolus yang meningkatkan luas permukaan paru-paru secara luar biasa.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 131,
+    "term": "Amilase",
+    "definition": "Enzim yang memecah pati/karbohidrat menjadi gula sederhana selama pencernaan.",
+    "example": "Amilase dalam air liur mulai bekerja saat kita masih mengunyah makanan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 132,
+    "term": "Anabolisme",
+    "definition": "Rangkaian proses metabolisme yang membangun molekul kompleks dari molekul sederhana menggunakan energi.",
+    "example": "Pembentukan protein dari asam amino adalah contoh proses anabolisme.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 133,
+    "term": "Anafase",
+    "definition": "Tahap pembelahan sel di mana pasangan kromosom mulai ditarik ke kutub berlawanan.",
+    "example": "Anafase terjadi setelah kromatid bersaudara terpisah satu sama lain.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 134,
+    "term": "Androgen",
+    "definition": "Sekelompok hormon (seperti testosteron) yang mengendalikan perkembangan ciri kelamin jantan.",
+    "example": "Hormon androgen sangat berpengaruh pada saat masa pubertas anak laki-laki.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 135,
+    "term": "Annelida",
+    "definition": "Filum cacing berbuku-buku atau bersegmen, seperti cacing tanah dan lintah.",
+    "example": "Cacing tanah adalah anggota Annelida yang membantu menyuburkan tanah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 136,
+    "term": "Aorta",
+    "definition": "Arteri terbesar dalam tubuh yang membawa darah dari ventrikel kiri jantung ke seluruh sistem.",
+    "example": "Aorta mendarah seluruh organ kecuali paru-paru.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 137,
+    "term": "Apendiks",
+    "definition": "Ujung usus buntu yang berbentuk tabung kecil pada manusia, seringkali dianggap sebagai organ vestigial.",
+    "example": "Peradangan pada apendiks memerlukan tindakan operasi segera.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 138,
+    "term": "Apoptosis",
+    "definition": " Mekanisme kematian sel yang terprogram secara alami sebagai bagian dari pertumbuhan normal.",
+    "example": "Apoptosis membantu menghilangkan sel-sel yang rusak atau sudah tidak diperlukan lagi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 139,
+    "term": "Asimilasi",
+    "definition": "Proses pengubahan nutrisi yang telah diserap menjadi bagian dari tubuh makhluk hidup.",
+    "example": "Tanaman melakukan asimilasi dengan mengubah gula hasil fotosintesis menjadi kayu.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 140,
+    "term": "Atrium",
+    "definition": "Ruang jantung bagian atas yang menerima darah masuk sebelum dipompa ke bilik bawah (ventrikel).",
+    "example": "Atrium kanan menerima darah miskin oksigen dari seluruh tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 141,
+    "term": "Autosom",
+    "definition": "Semua kromosom dalam inti sel kecuali kromosom seks yang menentukan jenis kelamin.",
+    "example": "Manusia memiliki 22 pasang autosom di setiap sel somatiknya.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 142,
+    "term": "Akson",
+    "definition": "Serabut saraf panjang yang membawa impuls listrik keluar dari badan sel neuron.",
+    "example": "Akson dilapisi oleh selubung mielin untuk mempercepat hantaran sinyal.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 143,
+    "term": "Bakteriofag",
+    "definition": "Jenis virus yang secara khusus menginfeksi dan menghancurkan sel bakteri.",
+    "example": "Bakteriofag sering digunakan dalam terapi medis untuk melawan infeksi bakteri super.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 144,
+    "term": "Basidiospora",
+    "definition": "Spora yang dihasilkan oleh jamur kelompok Basidiomycota (seperti jamur merang).",
+    "example": "Spora ini dilepaskan dari bagian bawah tudung jamur untuk reproduksi.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 145,
+    "term": "Basofil",
+    "definition": "Jenis sel darah putih yang terlibat dalam reaksi alergi dan peradangan tubuh.",
+    "example": "Kadar basofil akan meningkat saat tubuh mengalami alergi parah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 146,
+    "term": "Bilirubin",
+    "definition": "Zat warna empedu berwarna kuning kecokelatan hasil dari pemecahan sel darah merah.",
+    "example": "Kadar bilirubin yang terlalu tinggi di kulit menyebabkan penyakit kuning.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 147,
+    "term": "Biopsi",
+    "definition": "Prosedur pengambilan sampel jaringan tubuh untuk pemeriksaan laboratorium di bawah mikroskop.",
+    "example": "Biopsi dilakukan untuk menentukan apakah suatu benjolan bersifat kanker atau jinak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 148,
+    "term": "Bivalvia",
+    "definition": "Kelompok moluska yang memiliki dua belahan cangkang keras, seperti kerang dan kupang.",
+    "example": "Kerang mutiara adalah salah satu jenis bivalvia yang bernilai ekonomi tinggi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 149,
+    "term": "Bronkiolus",
+    "definition": "Cabang-cabang kecil dari bronkus yang mengarah langsung ke kantung udara alveolus.",
+    "example": "Udara mengalir melalui bronkiolus sebelum sampai ke tempat pertukaran gas.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 150,
+    "term": "Bronkus",
+    "definition": "Dua saluran utama hasil percabangan tenggorokan (trakea) yang masuk ke paru-paru kiri dan kanan.",
+    "example": "Infeksi pada bronkus dapat menyebabkan batuk berdahak yang parah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 151,
+    "term": "Decomposer",
+    "definition": "Organisme pengurai yang memecah bahan organik mati menjadi unsur hara tanah.",
+    "example": "Jamur dan bakteri adalah decomposer alami yang sangat penting.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 152,
+    "term": "Domestikasi",
+    "definition": "Proses penjinakan hewan atau pemuliaan tanaman liar untuk keperluan manusia.",
+    "example": "Domestikasi anjing terjadi ribuan tahun yang lalu dari serigala abu-abu.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 153,
+    "term": "Ektoderm",
+    "definition": "Lapisan paling luar dari tiga lapisan dasar embrio yang akan menjadi kulit dan saraf.",
+    "example": "Sistem saraf pusat manusia berkembang dari lapisan ektoderm.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 154,
+    "term": "Endoderm",
+    "definition": "Lapisan paling dalam dari embrio yang akan menjadi saluran pencernaan dan pernapasan.",
+    "example": "Lapisan endoderm membentuk lapisan dalam usus dan paru-paru.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 155,
+    "term": "Fauna",
+    "definition": "Seluruh jenis hewan yang hidup di suatu wilayah geografis atau zaman tertentu.",
+    "example": "Pulau Sulawesi memiliki fauna yang sangat unik dan endemik.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 156,
+    "term": "Flora",
+    "definition": "Seluruh jenis tumbuh-tumbuhan yang ada di suatu daerah tertentu.",
+    "example": "Flora pegunungan berbeda jauh dengan flora yang ada di daerah pesisir pantai.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 157,
+    "term": "Gamet",
+    "definition": "Sel kelamin (sperma atau sel telur) yang memiliki jumlah kromosom haploid.",
+    "example": "Peleburan dua gamet saat pembuahan akan menghasilkan zigot diploid.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 158,
+    "term": "Insang",
+    "definition": "Organ pernapasan pada hewan air yang berfungsi mengambil oksigen dari dalam air.",
+    "example": "Ikan mengalirkan air melalui mulut menuju insang untuk bernapas.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 159,
+    "term": "Katabolisme",
+    "definition": "Proses pembongkaran molekul besar menjadi molekul kecil untuk melepaskan energi.",
+    "example": "Respirasi seluler adalah contoh utama dari reaksi katabolisme tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 160,
+    "term": "Karsinogen",
+    "definition": "Zat atau agen lingkungan yang dapat memicu timbulnya sel-sel kanker.",
+    "example": "Asap rokok mengandung banyak karsinogen yang berbahaya bagi paru-paru.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 161,
+    "term": "Lizosoma",
+    "definition": "Organel sel yang berisi enzim pencerna untuk menghancurkan benda asing atau sel yang rusak.",
+    "example": "Lizosoma bertindak seperti sistem pembuangan sampah organik di dalam sel.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 162,
+    "term": "Melanin",
+    "definition": "Pigmen gelap di kulit, rambut, dan mata yang melindungi dari radiasi sinar UV matahari.",
+    "example": "Semakin banyak melanin, semakin gelap warna kulit seseorang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 163,
+    "term": "Nutrisi",
+    "definition": "Proses pengambilan makanan atau zat gizi oleh organisme untuk pertumbuhan dan kesehatan.",
+    "example": "Nutrisi yang seimbang sangat diperlukan untuk perkembangan otak anak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 164,
+    "term": "Organel",
+    "definition": "Struktur khusus di dalam sel yang memiliki fungsi tertentu (seperti organ kecil).",
+    "example": "Ribosom dan mitokondria adalah contoh organel sel eukariot.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 165,
+    "term": "Plasma Darah",
+    "definition": "Bagian cair dari darah yang mengangkut nutrisi, hormon, dan zat sisa ke seluruh tubuh.",
+    "example": "Sekitar 55% dari total volume darah manusia terdiri dari plasma darah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 166,
+    "term": "Rekayasa Genetika",
+    "definition": "Manipulasi langsung gen suatu organisme menggunakan teknologi bioteknologi modern.",
+    "example": "Rekayasa genetika digunakan untuk menghasilkan tanaman yang tahan terhadap hama.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 167,
+    "term": "Seleksi Alam",
+    "definition": "Mekanisme evolusi di mana individu yang paling sesuai dengan lingkungannya akan bertahan hidup.",
+    "example": "Seleksi alam menyebabkan populasi jerapah memiliki leher yang panjang.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 168,
+    "term": "Tumor",
+    "definition": "Pertumbuhan sel-sel yang tidak normal di bagian tubuh tertentu, bisa bersifat jinak atau ganas.",
+    "example": "Diagnosis dini tumor dapat meningkatkan peluang kesembuhan pasien.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 169,
+    "term": "Urin",
+    "definition": "Zat sisa metabolisme cair hasil penyaringan darah oleh organ ginjal.",
+    "example": "Warna urin dapat menunjukkan tingkat hidrasi atau kecukupan air dalam tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 170,
+    "term": "Vektor",
+    "definition": "Organisme pembawa patogen yang menularkan penyakit dari satu inang ke inang lainnya.",
+    "example": "Nyamuk Aedes aegypti adalah vektor bagi penyakit demam berdarah.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 171,
+    "term": "Adaptor",
+    "definition": "Molekul atau protein yang membantu menggabungkan dua struktur berbeda dalam sistem biologis.",
+    "example": "Protein adaptor penting dalam pengiriman sinyal di dalam sel saraf.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 172,
+    "term": "Adhesi",
+    "definition": "Gaya tarik-menarik antara molekul yang tidak sejenis, seperti air dengan dinding pembuluh.",
+    "example": "Gaya adhesi membantu air naik dari akar ke daun pohon yang tinggi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 173,
+    "term": "Akrosom",
+    "definition": "Bagian ujung kepala sperma yang berisi enzim untuk menembus lapisan pelindung sel telur.",
+    "example": "Tanpa akrosom, sperma tidak akan mampu melakukan pembuahan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 174,
+    "term": "Albinisme",
+    "definition": "Kondisi genetik di mana tubuh tidak mampu memproduksi pigmen melanin secara normal.",
+    "example": "Albinisme menyebabkan pengidapnya memiliki kulit dan rambut yang sangat putih.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 175,
+    "term": "Aldosteron",
+    "definition": "Hormon yang dihasilkan kelenjar adrenal untuk mengatur keseimbangan garam dan air dalam darah.",
+    "example": "Aldosteron sangat berperan dalam menjaga tekanan darah agar tetap stabil.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 176,
+    "term": "Alergen",
+    "definition": "Zat asing (seperti debu atau serbuk sari) yang memicu reaksi alergi pada seseorang.",
+    "example": "Serbuk sari bunga adalah alergen yang umum ditemukan di musim semi.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 177,
+    "term": "Alopatrik",
+    "definition": "Pembentukan spesies baru yang terjadi karena populasi terpisah oleh hambatan geografis.",
+    "example": "Spesiasi alopatrik sering terjadi ketika benua terpisah atau gunung muncul.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 178,
+    "term": "Amitosis",
+    "definition": "Pembelahan sel secara langsung secara sederhana tanpa melalui tahap-tahap mitosis kompleks.",
+    "example": "Beberapa organisme bersel satu melakukan reproduksi melalui amitosis.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 179,
+    "term": "Amonia",
+    "definition": "Senyawa kimia beracun hasil sampingan pemecahan protein yang harus dikeluarkan tubuh.",
+    "example": "Hati mengubah amonia yang berbahaya menjadi urea sebelum dibuang lewat ginjal.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 180,
+    "term": "Amnion",
+    "definition": "Selaput bening yang membungkus embrio dan berisi cairan untuk melindungi bayi dalam rahim.",
+    "example": "Cairan amnion berfungsi melindungi embrio dari benturan fisik luar.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 181,
+    "term": "Analogi",
+    "definition": "Kemiripan fungsi antara dua struktur organ yang berbeda asal usul evolusinya.",
+    "example": "Sayap burung dan sayap kupu-kupu adalah contoh organ analogi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 182,
+    "term": "Anemofili",
+    "definition": "Proses penyerbukan pada tumbuhan yang dibantu oleh perantara angin.",
+    "example": "Tanaman jagung dan rumput biasanya melakukan penyerbukan anemofili.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 183,
+    "term": "Angiografi",
+    "definition": "Teknik pencitraan medis untuk melihat kondisi pembuluh darah di dalam tubuh.",
+    "example": "Dokter menggunakan angiografi untuk mendeteksi penyumbatan di jantung.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 184,
+    "term": "Angiotensin",
+    "definition": "Protein dalam darah yang menyebabkan pembuluh darah menyempit dan tekanan darah naik.",
+    "example": "Hormon angiotensin bekerja sama dengan ginjal untuk mengatur cairan tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 185,
+    "term": "Animalia",
+    "definition": "Kingdom yang mencakup seluruh jenis hewan, dari yang sederhana hingga manusia.",
+    "example": "Ciri khas kingdom Animalia adalah bersifat multiseluler dan tidak bisa buat makanan sendiri.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 186,
+    "term": "Anisogami",
+    "definition": "Bentuk reproduksi di mana gamet jantan dan betina memiliki ukuran atau bentuk yang berbeda.",
+    "example": "Manusia melakukan anisogami karena sel telur jauh lebih besar dari sperma.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 187,
+    "term": "Anorganik",
+    "definition": "Zat atau senyawa yang tidak berasal dari makhluk hidup dan biasanya tidak mengandung karbon.",
+    "example": "Air, garam, dan oksigen adalah contoh zat anorganik yang dibutuhkan hidup.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 188,
+    "term": "Antagonis",
+    "definition": "Sepasang otot yang bekerja secara berlawanan, jika satu berkontraksi maka yang lain relaksasi.",
+    "example": "Otot bisep dan trisep di lengan kita adalah contoh kerja otot antagonis.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 189,
+    "term": "Antheridium",
+    "definition": "Organ reproduksi jantan pada tumbuhan paku dan lumut yang menghasilkan sperma.",
+    "example": "Sperma dari antheridium memerlukan air untuk berenang menuju sel telur.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 190,
+    "term": "Anthesis",
+    "definition": "Periode saat bunga mekar secara penuh dan siap untuk proses penyerbukan.",
+    "example": "Petani memperhatikan masa anthesis padi untuk memastikan panen yang baik.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 191,
+    "term": "Antikoagulan",
+    "definition": "Zat kimia yang berfungsi mencegah atau menghambat proses pembekuan darah.",
+    "example": "Lintah mengeluarkan zat antikoagulan saat mengisap darah mangsanya.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 192,
+    "term": "Antropometri",
+    "definition": "Metode pengukuran dimensi fisik tubuh manusia untuk menilai status pertumbuhan.",
+    "example": "Antropometri sering digunakan oleh perawat untuk memantau gizi bayi di posyandu.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 193,
+    "term": "Apomiksis",
+    "definition": "Proses reproduksi tanpa melalui fertilisasi atau pembuahan, namun menghasilkan biji.",
+    "example": "Beberapa spesies tanaman gurun melakukan apomiksis untuk bertahan hidup.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 194,
+    "term": "Akuifer",
+    "definition": "Lapisan tanah atau batuan di bawah permukaan bumi yang mampu menyimpan air tanah.",
+    "example": "Sumur gali mengambil air dari akuifer yang berada di bawah permukaan rumah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 195,
+    "term": "Akuaporin",
+    "definition": "Protein khusus pada membran sel yang membentuk saluran agar air bisa lewat dengan cepat.",
+    "example": "Sel ginjal memiliki banyak akuaporin untuk menyerap kembali air ke dalam tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 196,
+    "term": "Arkeologi",
+    "definition": "Ilmu yang mempelajari sejarah kebudayaan manusia melalui material sisa-sisa masa lalu.",
+    "example": "Arkeologi sering bekerja sama dengan biologi untuk meneliti tulang purba.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 197,
+    "term": "Arteriola",
+    "definition": "Percabangan kecil dari arteri yang menyalurkan darah ke pembuluh kapiler halus.",
+    "example": "Penyempitan arteriola secara otomatis akan meningkatkan tekanan darah seseorang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 198,
+    "term": "Aster",
+    "definition": "Struktur berbentuk bintang yang terbentuk dari serat mikrotubulus saat sel membelah.",
+    "example": "Aster berfungsi membantu mengarahkan pergerakan kromosom selama mitosis.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 199,
+    "term": "Ataksia",
+    "definition": "Gangguan koordinasi gerakan tubuh yang disebabkan oleh kerusakan pada otak kecil.",
+    "example": "Penderita ataksia biasanya mengalami kesulitan saat berjalan atau menjaga keseimbangan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 200,
+    "term": "Atavisme",
+    "definition": "Munculnya kembali sifat moyang kuno yang sudah hilang selama beberapa generasi.",
+    "example": "Bayi manusia yang lahir dengan 'ekor' kecil adalah contoh fenomena atavisme.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 201,
+    "term": "Auksotrof",
+    "definition": "Organisme (biasanya mikroba) yang tidak dapat mensintesis senyawa organik tertentu yang dibutuhkannya untuk tumbuh.",
+    "example": "Bakteri auksotrof memerlukan tambahan asam amino dalam media pertumbuhannya.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 202,
+    "term": "Aksila",
+    "definition": "Area ketiak atau sudut yang terbentuk antara tangkai daun dan batang tumbuhan.",
+    "example": "Tunas aksilar sering tumbuh di bagian aksila tanaman untuk membentuk cabang baru.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 203,
+    "term": "Aksis",
+    "definition": "Garis imajiner atau struktur pusat yang menjadi pusat rotasi atau simetri tubuh.",
+    "example": "Tulang belakang berfungsi sebagai aksis utama tubuh manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 204,
+    "term": "Azotobacter",
+    "definition": "Genus bakteri pengikat nitrogen bebas di tanah yang hidup secara bebas (non-simbiotik).",
+    "example": "Azotobacter membantu meningkatkan kesuburan tanah tanpa perlu bersimbiosis dengan akar pohon.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 205,
+    "term": "Bahari",
+    "definition": "Segala sesuatu yang berkaitan dengan laut atau samudra, termasuk kehidupan di dalamnya.",
+    "example": "Indonesia memiliki kekayaan ekosistem bahari yang sangat luas dan beragam.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 206,
+    "term": "Bakterisida",
+    "definition": "Zat kimia atau agen yang memiliki kemampuan untuk membunuh bakteri secara langsung.",
+    "example": "Alkohol dosis tinggi bertindak sebagai bakterisida yang efektif untuk sterilisasi alat medis.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 207,
+    "term": "Balistik",
+    "definition": "Mekanisme penyebaran biji pada tumbuhan dengan cara melontarkannya secara tiba-tiba.",
+    "example": "Buah polong-polongan menggunakan mekanisme balistik untuk menyebarkan bijinya saat sudah kering.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 208,
+    "term": "Baroreseptor",
+    "definition": "Sensor saraf khusus di dinding pembuluh darah yang mendeteksi perubahan tekanan darah.",
+    "example": "Baroreseptor di arteri karotis membantu otak mengatur detak jantung agar tekanan tetap stabil.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 209,
+    "term": "Bentos",
+    "definition": "Organisme yang hidup di atau dekat dengan dasar perairan, baik laut maupun air tawar.",
+    "example": "Bintang laut dan teripang adalah contoh hewan bentos yang hidup di dasar samudra.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 210,
+    "term": "Beriberi",
+    "definition": "Penyakit yang disebabkan oleh kekurangan vitamin B1 (thiamin) yang menyerang saraf dan jantung.",
+    "example": "Penyakit beriberi dapat dicegah dengan mengonsumsi makanan yang kaya gizi seimbang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 211,
+    "term": "Berudu",
+    "definition": "Tahap larva dari hewan amfibi (seperti katak) yang hidup di air dan bernapas dengan insang.",
+    "example": "Berudu akan kehilangan ekornya saat bermetamorfosis menjadi katak dewasa.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 212,
+    "term": "Beta-oksidasi",
+    "definition": "Proses metabolisme di mana molekul asam lemak dipecah untuk menghasilkan energi ATP.",
+    "example": "Beta-oksidasi terjadi di dalam mitokondria untuk mengolah cadangan lemak tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 213,
+    "term": "Bikarbonat",
+    "definition": "Ion penting dalam darah yang berfungsi sebagai dapar (buffer) untuk menjaga keseimbangan pH.",
+    "example": "Kadar bikarbonat diatur oleh ginjal untuk mencegah darah menjadi terlalu asam.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 214,
+    "term": "Bikuspid",
+    "definition": "Katup jantung yang memiliki dua daun (katup mitral) atau gigi yang memiliki dua tonjolan.",
+    "example": "Katup bikuspid mencegah darah mengalir kembali dari ventrikel ke atrium kiri.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 215,
+    "term": "Bioetika",
+    "definition": "Studi tentang isu-isu etika yang muncul akibat kemajuan dalam bidang biologi dan kedokteran.",
+    "example": "Kloning manusia merupakan salah satu topik yang sering diperdebatkan dalam bioetika.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 216,
+    "term": "Biometrika",
+    "definition": "Penggunaan karakteristik biologis yang unik (seperti sidik jari) untuk identifikasi individu.",
+    "example": "Pemindaian iris mata adalah salah satu bentuk teknologi biometrika yang sangat akurat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 217,
+    "term": "Biota",
+    "definition": "Seluruh kehidupan (flora dan fauna) yang ada di suatu wilayah atau periode tertentu.",
+    "example": "Biota laut di terumbu karang sangat sensitif terhadap perubahan suhu air.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 218,
+    "term": "Blastosol",
+    "definition": "Rongga berisi cairan yang terbentuk di tengah bola sel pada tahap blastula embrio.",
+    "example": "Pembentukan blastosol adalah ciri penting dalam perkembangan awal hewan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 219,
+    "term": "Braktea",
+    "definition": "Daun pelindung yang seringkali berwarna cerah dan terletak di dasar kuncup bunga.",
+    "example": "Warna merah pada tanaman kembang kertas sebenarnya adalah braktea, bukan mahkota bunga.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 220,
+    "term": "Buli-buli",
+    "definition": "Kantung kemih atau vesica urinaria yang berfungsi menampung urin sebelum dikeluarkan.",
+    "example": "Otot pada dinding buli-buli akan berkontraksi saat kita buang air kecil.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 221,
+    "term": "Bursa",
+    "definition": "Kantung berisi cairan pelumas yang terletak di antara sendi untuk mengurangi gesekan.",
+    "example": "Peradangan pada bursa (bursitis) dapat menyebabkan rasa nyeri yang hebat saat bergerak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 222,
+    "term": "Cekam",
+    "definition": "Kondisi lingkungan yang ekstrem (seperti kekeringan) yang menekan pertumbuhan makhluk hidup.",
+    "example": "Tanaman gurun memiliki adaptasi khusus untuk menghadapi cekam kekeringan yang panjang.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 223,
+    "term": "Cephalopoda",
+    "definition": "Kelas moluska yang alat geraknya terletak di bagian kepala, seperti gurita dan cumi-cumi.",
+    "example": "Cephalopoda dikenal memiliki sistem saraf yang sangat maju di antara hewan invertebrata.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 224,
+    "term": "Cerobong",
+    "definition": "Struktur atau saluran pada beberapa organisme untuk mengeluarkan gas atau air sisa.",
+    "example": "Spons laut menggunakan lubang cerobong besar (oskulum) untuk membuang air dari tubuhnya.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 225,
+    "term": "Chitin",
+    "definition": "Zat polimer keras yang menyusun kerangka luar serangga dan dinding sel jamur.",
+    "example": "Kulit udang yang keras mengandung banyak kitin untuk perlindungan diri.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 226,
+    "term": "Chromatid",
+    "definition": "Satu dari dua lengan identik hasil penggandaan kromosom sebelum pembelahan sel.",
+    "example": "Dua kromatid bersaudara dipisahkan menuju kutub sel yang berbeda saat anafase.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 227,
+    "term": "Ciliata",
+    "definition": "Kelompok protozoa yang bergerak menggunakan rambut-rambut halus yang disebut silia.",
+    "example": "Paramecium adalah contoh ciliata yang sering ditemukan di air tawar.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 228,
+    "term": "Climax",
+    "definition": "Tahap akhir yang stabil dari suksesi ekosistem di mana komunitas vegetasi mencapai keseimbangan.",
+    "example": "Hutan hujan tropis yang tua dianggap sebagai komunitas klimaks.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 229,
+    "term": "Clitoris",
+    "definition": "Organ kecil yang sangat sensitif pada sistem reproduksi betina mamalia.",
+    "example": "Klitoris mengandung banyak ujung saraf sensorik.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 230,
+    "term": "Cloaca",
+    "definition": "Saluran tunggal untuk pengeluaran sisa pencernaan dan urin pada burung, reptil, dan amfibi.",
+    "example": "Ayam mengeluarkan telur dan kotoran melalui lubang yang sama, yaitu kloaka.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 231,
+    "term": "Coenzim",
+    "definition": "Molekul organik non-protein yang membantu kerja enzim dalam mempercepat reaksi kimia.",
+    "example": "Vitamin B kompleks seringkali bertindak sebagai koenzim dalam metabolisme.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 232,
+    "term": "Coitus",
+    "definition": "Hubungan seksual antara jantan dan betina sebagai cara untuk reproduksi.",
+    "example": "Coitus memungkinkan pertemuan antara sel sperma dan sel telur.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 233,
+    "term": "Coleoptera",
+    "definition": "Ordo serangga besar yang mencakup semua jenis kumbang dengan sayap depan yang keras.",
+    "example": "Kumbang tanduk adalah salah satu anggota ordo Coleoptera yang terkenal kuat.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 234,
+    "term": "Collagen",
+    "definition": "Protein utama dalam jaringan ikat yang memberikan kekuatan dan elastisitas pada kulit dan tulang.",
+    "example": "Produksi kolagen yang berkurang seiring usia menyebabkan munculnya keriput pada kulit.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 235,
+    "term": "Colon",
+    "definition": "Bagian dari usus besar tempat terjadinya penyerapan air dan pembentukan feses.",
+    "example": "Bakteri baik di dalam kolon membantu memproduksi beberapa jenis vitamin.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 236,
+    "term": "Colostrum",
+    "definition": "Air susu pertama yang dihasilkan ibu setelah melahirkan, kaya akan antibodi untuk bayi.",
+    "example": "Pemberian kolostrum sangat penting untuk membangun kekebalan awal anak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 237,
+    "term": "Commensalisme",
+    "definition": "Hubungan antara dua mahkluk hidup di mana satu pihak untung dan pihak lain tidak dirugikan.",
+    "example": "Ikan remora yang menempel pada hiu adalah contoh interaksi komensalisme.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 238,
+    "term": "Conidia",
+    "definition": "Spora aseksual yang terbentuk pada ujung hifa jamur tertentu untuk penyebaran.",
+    "example": "Jamur Penicillium menyebarkan conidia melalui udara ke media baru.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 239,
+    "term": "Conjugasi",
+    "definition": "Proses transfer materi genetik secara langsung antara dua sel bakteri atau protozoa.",
+    "example": "Konjugasi memungkinkan bakteri bertukar gen ketahanan terhadap antibiotik.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 240,
+    "term": "Cornea",
+    "definition": "Lapisan bening transparan di bagian depan mata yang berfungsi membiaskan cahaya masuk.",
+    "example": "Kornea harus dijaga kebersihannya agar penglihatan tetap jernih.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 241,
+    "term": "Corpus luteum",
+    "definition": "Bekas kantung sel telur di ovarium yang menghasilkan hormon progesteron setelah ovulasi.",
+    "example": "Corpus luteum akan menyusut jika tidak terjadi pembuahan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 242,
+    "term": "Cortex",
+    "definition": "Lapisan luar jaringan pada organ tumbuhan (akar/batang) atau hewan (ginjal/otak).",
+    "example": "Korteks serebral pada otak manusia bertanggung jawab atas fungsi kecerdasan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 243,
+    "term": "Cotyledon",
+    "definition": "Daun lembaga atau keping biji yang berisi cadangan makanan bagi kecambah yang baru tumbuh.",
+    "example": "Tumbuhan monokotil hanya memiliki satu kotiledon di dalam bijinya.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 244,
+    "term": "Creatinin",
+    "definition": "Zat sisa hasil pemecahan otot yang dikeluarkan melalui ginjal, menjadi indikator fungsi ginjal.",
+    "example": "Pemeriksaan kadar kreatinin darah dilakukan untuk memantau kesehatan ginjal pasien.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 245,
+    "term": "Crossing over",
+    "definition": "Pertukaran segmen materi genetik antar kromosom saat meiosis yang menciptakan variasi genetik.",
+    "example": "Crossing over (pindah silang) menjelaskan mengapa saudara kandung tidak identik.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 246,
+    "term": "Crustacea",
+    "definition": "Kelompok hewan artropoda yang memiliki kulit keras dan hidup di air, seperti udang dan kepiting.",
+    "example": "Kepiting bakau adalah salah satu komoditas crustacea yang populer dikonsumsi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 247,
+    "term": "Cuticula",
+    "definition": "Lapisan lilin penutup permukaan daun untuk mencegah penguapan air yang berlebihan.",
+    "example": "Tanaman sukulen memiliki kutikula yang sangat tebal untuk menyimpan air.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 248,
+    "term": "Cyanobacteria",
+    "definition": "Kelompok bakteri yang mampu melakukan fotosintesis dan sering disebut alga biru-hijau.",
+    "example": "Cyanobacteria berperan besar dalam menyumbang oksigen di atmosfer bumi purba.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 249,
+    "term": "Cybernetics",
+    "definition": "Studi tentang sistem kontrol dan komunikasi pada makhluk hidup maupun mesin.",
+    "example": "Prinsip sibernetika digunakan untuk memahami cara otak mengatur suhu tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 250,
+    "term": "Cyst",
+    "definition": "Kantung tertutup berisi cairan atau gas yang dapat tumbuh di bagian mana pun dari tubuh.",
+    "example": "Kista ovarium sering ditemukan melalui pemeriksaan ultrasonografi (USG).",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 251,
+    "term": "Cytokinesis",
+    "definition": "Proses pembelahan sitoplasma pada sel induk menjadi dua sel anak setelah pembelahan inti (mitosis/meiosis).",
+    "example": "Sitokinesis pada sel hewan terjadi dengan pembentukan cincin kontraktil yang menjepit sel menjadi dua.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 252,
+    "term": "Cytoskeleton",
+    "definition": "Kerangka protein di dalam sitoplasma yang memberikan bentuk, kekuatan, dan memungkinkan pergerakan sel.",
+    "example": "Sitoskeleton terdiri dari mikrotubulus, mikrofilamen, dan filamen intermediat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 253,
+    "term": "Cytotoxic",
+    "definition": "Sifat suatu zat atau sel (seperti sel T sitotoksik) yang mampu merusak atau membunuh sel lain.",
+    "example": "Kemoterapi menggunakan obat sitotoksik untuk membunuh sel-sel kanker yang membelah dengan cepat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 254,
+    "term": "Daur biologis",
+    "definition": "Rangkaian perubahan yang dialami makhluk hidup dari awal kehidupan hingga menghasilkan keturunan kembali.",
+    "example": "Daur biologis kupu-kupu melibatkan metamorfosis sempurna dari telur hingga imago.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 255,
+    "term": "Daun",
+    "definition": "Organ utama tumbuhan yang berfungsi sebagai tempat fotosintesis, transpirasi, dan pertukaran gas.",
+    "example": "Daun hijau mengandung banyak kloroplas untuk menangkap energi matahari.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 256,
+    "term": "Deaminasi",
+    "definition": "Proses pelepasan gugus amina dari asam amino yang terjadi di dalam organ hati manusia.",
+    "example": "Deaminasi menghasilkan amonia sebagai sisa yang kemudian diubah menjadi urea.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 257,
+    "term": "Decibel",
+    "definition": "Satuan untuk mengukur intensitas atau kenyaringan suara yang didengar oleh telinga.",
+    "example": "Paparan suara di atas 85 desibel dalam waktu lama dapat merusak pendengaran manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 258,
+    "term": "Dediferensiasi",
+    "definition": "Proses sel dewasa yang sudah terspesialisasi kembali menjadi sel yang bersifat embrional (punca).",
+    "example": "Dediferensiasi sel memungkinkan beberapa jenis hewan untuk meregenerasi anggota tubuh yang hilang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 259,
+    "term": "Defekasi",
+    "definition": "Proses pengeluaran sisa-sisa pencernaan makanan berupa feses melalui saluran anus.",
+    "example": "Defekasi yang teratur adalah tanda fungsi sistem pencernaan yang sehat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 260,
+    "term": "Defisiensi",
+    "definition": "Kondisi kekurangan nutrisi tertentu (vitamin/mineral) yang menyebabkan gangguan fungsi tubuh.",
+    "example": "Defisiensi vitamin C dapat menyebabkan penyakit sariawan dan gusi berdarah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 261,
+    "term": "Degenerasi",
+    "definition": "Penurunan fungsi atau struktur jaringan tubuh seiring bertambahnya usia atau akibat penyakit.",
+    "example": "Penyakit Alzheimer merupakan contoh dari degenerasi sel-sel saraf di otak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 262,
+    "term": "Dehidrasi",
+    "definition": "Kondisi tubuh yang kekurangan cairan akibat pengeluaran yang lebih banyak daripada asupan.",
+    "example": "Dehidrasi berat dapat menyebabkan penurunan kesadaran dan kegagalan fungsi organ.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 263,
+    "term": "Dehidrogenase",
+    "definition": "Enzim yang mengkatalisis reaksi pelepasan atom hidrogen dari suatu molekul dalam metabolisme.",
+    "example": "Laktat dehidrogenase berperan penting dalam proses konversi energi saat olahraga intens.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 264,
+    "term": "Deletesi",
+    "definition": "Jenis mutasi genetik di mana satu atau lebih bagian dari urutan DNA hilang atau terhapus.",
+    "example": "Deletesi pada kromosom tertentu dapat memicu kelainan genetik yang serius.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 265,
+    "term": "Demersal",
+    "definition": "Organisme (terutama ikan) yang hidup dan mencari makan di dekat dasar laut atau danau.",
+    "example": "Ikan kerapu adalah salah satu jenis ikan demersal yang memiliki nilai ekonomi tinggi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 266,
+    "term": "Denaturasi",
+    "definition": "Perubahan struktur protein atau DNA sehingga kehilangan fungsi aslinya akibat panas atau kimia.",
+    "example": "Memasak telur menyebabkan denaturasi protein sehingga putih telur menjadi padat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 267,
+    "term": "Denitrifikasi",
+    "definition": "Proses pengubahan nitrat kembali menjadi gas nitrogen oleh bakteri dalam tanah tanpa oksigen.",
+    "example": "Denitrifikasi membantu menjaga siklus nitrogen dengan melepaskan gas N2 ke atmosfer.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 268,
+    "term": "Dentin",
+    "definition": "Jaringan keras penyusun utama gigi yang terletak di bawah lapisan email (enamel).",
+    "example": "Dentin melindungi bagian pulpa gigi yang berisi saraf dan pembuluh darah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 269,
+    "term": "Deoksiribosa",
+    "definition": "Jenis gula lima karbon (pentosa) yang menjadi komponen penyusun molekul DNA.",
+    "example": "Gugus deoksiribosa berikatan dengan fosfat membentuk kerangka 'tangga' DNA.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 270,
+    "term": "Depolarisasi",
+    "definition": "Perubahan muatan listrik di dalam sel saraf saat menerima rangsangan sehingga impuls dapat dihantarkan.",
+    "example": "Depolarisasi membran neuron memicu pelepasan neurotransmiter ke sinapsis.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 271,
+    "term": "Dermal",
+    "definition": "Segala sesuatu yang berkaitan dengan lapisan kulit pada hewan atau epidermis pada tumbuhan.",
+    "example": "Sistem dermal pada tanaman berfungsi sebagai pelindung dari kerusakan fisik.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 272,
+    "term": "Dermatologi",
+    "definition": "Cabang ilmu kedokteran yang khusus mempelajari tentang kesehatan kulit dan penyakitnya.",
+    "example": "Seseorang dengan masalah jerawat parah biasanya berkonsultasi ke ahli dermatologi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 273,
+    "term": "Desalinasi",
+    "definition": "Proses penghilangan kadar garam dari air laut agar menjadi air tawar yang dapat diminum.",
+    "example": "Desalinasi menjadi solusi penyediaan air bersih di daerah gurun dekat pantai.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 160,
+    "term": "Karsinogen",
+    "definition": "Zat atau agen lingkungan yang dapat memicu timbulnya sel-sel kanker.",
+    "example": "Asap rokok mengandung banyak karsinogen yang berbahaya bagi paru-paru.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 274,
+    "term": "Desinfektan",
+    "definition": "Zat kimia yang digunakan untuk membunuh mikroorganisme pada permukaan benda mati.",
+    "example": "Lantai rumah sakit harus dibersihkan dengan desinfektan secara rutin agar tetap steril.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 275,
+    "term": "Determinasi",
+    "definition": "Proses identifikasi atau penetapan nama ilmiah suatu makhluk hidup berdasarkan cirinya.",
+    "example": "Kunci determinasi digunakan untuk mengetahui apakah suatu serangga termasuk jenis baru.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 276,
+    "term": "Detritus",
+    "definition": "Partikel organik hasil hancuran makhluk hidup yang sudah mati dan sedang membusuk.",
+    "example": "Cacing tanah memakan detritus di tanah untuk mendapatkan nutrisi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 277,
+    "term": "Diafragma",
+    "definition": "Otot tipis berbentuk kubah yang memisahkan rongga dada dengan rongga perut pada mamalia.",
+    "example": "Kontraksi diafragma sangat krusial dalam proses pernapasan perut.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 278,
+    "term": "Diagnosis",
+    "definition": "Penetapan jenis penyakit pada seseorang berdasarkan tanda-tanda atau gejala klinis.",
+    "example": "Tes darah diperlukan dokter untuk membuat diagnosis yang akurat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 279,
+    "term": "Dialisis",
+    "definition": "Proses pembersihan darah dari zat sisa metabolisme menggunakan mesin (cuci darah).",
+    "example": "Pasien dengan gagal ginjal stadium akhir memerlukan dialisis secara rutin.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 280,
+    "term": "Diapsid",
+    "definition": "Kelompok hewan bertulang belakang yang memiliki dua lubang di sisi tengkoraknya (reptil/burung).",
+    "example": "Buaya dan kadal termasuk dalam kelompok garis keturunan diapsid.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 281,
+    "term": "Diastole",
+    "definition": "Fase dalam siklus jantung di mana otot jantung relaksasi dan bilik terisi oleh darah.",
+    "example": "Tekanan darah saat diastole adalah angka bawah pada pembacaan tensimeter.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 282,
+    "term": "Diatom",
+    "definition": "Kelompok alga uniseluler yang memiliki dinding sel dari silika yang keras dan indah.",
+    "example": "Diatom berperan penting sebagai produsen utama di dalam ekosistem laut.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 283,
+    "term": "Dikotil",
+    "definition": "Kelompok tumbuhan berbunga yang memiliki dua keping biji (kotiledon) saat berkecambah.",
+    "example": "Mangga dan kacang tanah adalah contoh tumbuhan yang termasuk golongan dikotil.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 284,
+    "term": "Diferensiasi",
+    "definition": "Proses di mana sel muda yang seragam berubah menjadi sel dengan fungsi dan bentuk spesifik.",
+    "example": "Diferensiasi sel memungkinkan terbentuknya berbagai organ tubuh yang berbeda-beda.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 285,
+    "term": "Digesti",
+    "definition": "Rangkaian proses pemecahan makanan menjadi molekul kecil agar bisa diserap usus.",
+    "example": "Digesti mekanik terjadi di mulut melalui kunyahan gigi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 286,
+    "term": "Digitalis",
+    "definition": "Jenis obat penguat detak jantung yang diekstrak dari tanaman bunga tertentu.",
+    "example": "Digitalis digunakan untuk membantu pasien dengan gangguan gagal jantung kronis.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 287,
+    "term": "Dihibrid",
+    "definition": "Persilangan antara dua individu yang memperhatikan dua pasang sifat yang berbeda (misal: warna dan bentuk).",
+    "example": "Hukum Mendel II dapat dibuktikan melalui percobaan persilangan dihibrid.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 288,
+    "term": "Dikariotik",
+    "definition": "Kondisi sel jamur yang memiliki dua inti sel berbeda di dalam satu sitoplasma.",
+    "example": "Tahap dikariotik pada jamur terjadi setelah proses penyatuan sitoplasma sel.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 289,
+    "term": "Dinoflagellata",
+    "definition": "Mikroorganisme air yang memiliki dua flagel dan sering menyebabkan fenomena pasang merah.",
+    "example": "Beberapa dinoflagellata dapat memancarkan cahaya (bioluminesensi) di malam hari.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 290,
+    "term": "Dioecious",
+    "definition": "Kondisi tumbuhan di mana bunga jantan dan betina berada pada pohon yang berbeda.",
+    "example": "Pohon salak bersifat dioecious sehingga perlu penyerbukan bantuan dari pohon lain.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 291,
+    "term": "Diploblastik",
+    "definition": "Hewan yang hanya memiliki dua lapisan jaringan dasar (ektoderm dan endoderm) saat embrio.",
+    "example": "Ubur-ubur dan hewan berongga lainnya termasuk dalam kelompok diploblastik.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 292,
+    "term": "Disakarida",
+    "definition": "Jenis karbohidrat gula yang terdiri dari penyatuan dua molekul gula sederhana (monosakarida).",
+    "example": "Susu mengandung laktosa yang merupakan contoh dari gula disakarida.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 293,
+    "term": "Distal",
+    "definition": "Istilah arah anatomi yang berarti lebih jauh dari titik pusat tubuh atau pangkal anggota gerak.",
+    "example": "Jari tangan terletak di bagian distal terhadap pergelangan tangan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 294,
+    "term": "Diuretik",
+    "definition": "Zat atau obat yang berfungsi meningkatkan laju pengeluaran urin dari dalam tubuh.",
+    "example": "Kopi mengandung kafein yang memiliki efek diuretik ringan bagi peminumnya.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 295,
+    "term": "Dormansi",
+    "definition": "Masa istirahat atau tidak aktifnya benih tanaman untuk menunda pertumbuhan hingga kondisi sesuai.",
+    "example": "Biji tanaman gurun sering mengalami dormansi panjang menunggu musim hujan tiba.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 296,
+    "term": "Duodenum",
+    "definition": "Bagian pertama dari usus halus (usus dua belas jari) tempat awal pencernaan kimiawi intens.",
+    "example": "Empedu dan enzim pankreas dilepaskan ke dalam duodenum untuk mencerna lemak.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 297,
+    "term": "Diploida",
+    "definition": "Sel atau organisme yang memiliki dua set lengkap kromosom (2n) dalam inti selnya.",
+    "example": "Hampir semua sel somatik atau sel tubuh manusia merupakan sel diploida.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 298,
+    "term": "Dominansi",
+    "definition": "Kecenderungan satu gen untuk menutupi ekspresi dari gen pasangannya dalam satu individu.",
+    "example": "Dominansi epistasis menjelaskan interaksi antar gen yang memengaruhi warna bulu hewan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 299,
+    "term": "Diferensial",
+    "definition": "Karakteristik yang membedakan satu spesies dengan spesies lainnya yang sangat berdekatan.",
+    "example": "Analisis jumlah sisik lateral adalah ciri diferensial dalam identifikasi ikan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 300,
+    "term": "Defensif",
+    "definition": "Segala bentuk mekanisme atau struktur tubuh yang berfungsi untuk perlindungan diri dari predator.",
+    "example": "Duri pada landak adalah contoh struktur defensif yang sangat efektif.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 301,
+    "term": "Ekolokasi",
+    "definition": "Kemampuan hewan (seperti kelelawar dan lumba-lumba) untuk menentukan posisi benda menggunakan pantulan bunyi gelombang tinggi.",
+    "example": "Kelelawar dapat terbang di goa yang gelap gulita tanpa menabrak dinding berkat sistem ekolokasi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 302,
+    "term": "Emetikum",
+    "definition": "Jenis zat atau obat yang secara sengaja digunakan untuk memicu rasa mual dan keinginan untuk muntah.",
+    "example": "Obat emetikum kadang diberikan pada kasus darurat keracunan tertentu untuk mengeluarkan racun dari perut.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 303,
+    "term": "Empedu",
+    "definition": "Cairan berwarna hijau kekuningan yang dihasilkan hati untuk membantu proses pencernaan dan pengemulsian lemak.",
+    "example": "Cairan empedu disimpan di dalam kantung empedu sebelum dilepaskan ke usus dua belas jari.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 304,
+    "term": "Emfisema",
+    "definition": "Penyakit paru-paru kronis yang ditandai dengan rusaknya dinding alveolus sehingga sesak napas.",
+    "example": "Perokok aktif memiliki risiko yang sangat tinggi untuk menderita penyakit emfisema di masa tua.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 305,
+    "term": "Enamel",
+    "definition": "Lapisan paling luar gigi yang sangat keras dan transparan, berfungsi melindungi gigi dari kerusakan.",
+    "example": "Enamel adalah jaringan paling keras yang pernah ditemukan di dalam tubuh manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 306,
+    "term": "Ensefalitis",
+    "definition": "Peradangan akut yang terjadi pada jaringan otak, biasanya disebabkan oleh infeksi virus atau bakteri.",
+    "example": "Gejala ensefalitis meliputi demam tinggi, sakit kepala hebat, dan penurunan kesadaran.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 307,
+    "term": "Endemik",
+    "definition": "Status bagi spesies makhluk hidup yang hanya dapat ditemukan secara alami di satu wilayah geografis tertentu.",
+    "example": "Burung Cendrawasih adalah spesies endemik dari pulau Papua.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 308,
+    "term": "Endodermis",
+    "definition": "Lapisan sel tunggal pada akar tumbuhan yang memisahkan korteks dari bagian silinder pusat (stele).",
+    "example": "Penebalan suberin pada endodermis membentuk pita kaspari yang mengatur aliran air ke xilem.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 309,
+    "term": "Endokrinologi",
+    "definition": "Cabang ilmu biologi dan kedokteran yang mempelajari sistem hormon dan kelenjar buntu.",
+    "example": "Seorang ahli endokrinologi menangani masalah yang berkaitan dengan diabetes dan tiroid.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 310,
+    "term": "Endometrium",
+    "definition": "Lapisan lendir bagian dalam rahim yang menebal dan meluruh saat siklus menstruasi wanita.",
+    "example": "Sel telur yang telah dibuahi akan menempel dan berkembang pada lapisan endometrium.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 311,
+    "term": "Endonuklease",
+    "definition": "Enzim yang mampu memotong rantai DNA atau RNA pada urutan basa tertentu di bagian tengah.",
+    "example": "Endonuklease restriksi digunakan sebagai gunting molekuler dalam teknologi rekayasa genetika.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 312,
+    "term": "Endoplasma",
+    "definition": "Bagian sitoplasma yang terletak di sebelah dalam (dekat inti sel) dan biasanya bertekstur lebih cair.",
+    "example": "Retikulum endoplasma adalah organel yang ditemukan terendam di dalam bagian endoplasma sel.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 313,
+    "term": "Endoskeleton",
+    "definition": "Kerangka internal yang berada di dalam tubuh hewan bertulang belakang sebagai penopang.",
+    "example": "Manusia memiliki endoskeleton yang terdiri dari ratusan tulang yang saling bersendi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 314,
+    "term": "Endosperma",
+    "definition": "Jaringan cadangan makanan di dalam biji tumbuhan yang menyediakan energi bagi pertumbuhan awal embrio.",
+    "example": "Air kelapa sebenarnya merupakan nutrisi berupa endosperma cair bagi tunas kelapa.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 315,
+    "term": "Endospora",
+    "definition": "Struktur dorman yang sangat tahan terhadap kondisi ekstrem yang dibentuk oleh beberapa jenis bakteri.",
+    "example": "Bakteri Bacillus dapat membentuk endospora agar tetap hidup meskipun lingkungan kekeringan.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 316,
+    "term": "Endoterm",
+    "definition": "Hewan yang mampu menghasilkan panas tubuh sendiri untuk menjaga suhu tetap stabil (berdarah panas).",
+    "example": "Burung dan mamalia adalah contoh hewan kelompok endoterm.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 317,
+    "term": "Enteritis",
+    "definition": "Peradangan yang terjadi pada saluran usus halus, seringkali ditandai dengan gejala diare.",
+    "example": "Keracunan makanan yang terkontaminasi bakteri sering kali menyebabkan enteritis akut.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 318,
+    "term": "Entomologi",
+    "definition": "Cabang ilmu zoologi yang khusus mempelajari segala aspek kehidupan tentang serangga.",
+    "example": "Pengetahuan entomologi sangat berguna bagi petani untuk mengendalikan hama tanaman secara alami.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 319,
+    "term": "Eosinofil",
+    "definition": "Jenis sel darah putih granulosit yang berfungsi melawan infeksi parasit dan merespons alergi.",
+    "example": "Jumlah eosinofil dalam darah akan melonjak jika seseorang terinfeksi cacing usus.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 320,
+    "term": "Epidemiologi",
+    "definition": "Ilmu yang mempelajari pola penyebaran, frekuensi, dan penyebab penyakit di suatu populasi.",
+    "example": "Epidemiologi sangat penting dalam merancang strategi pencegahan saat terjadi pandemi.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 321,
+    "term": "Epidermis",
+    "definition": "Lapisan sel paling luar pada tubuh hewan atau tumbuhan yang berfungsi sebagai pelindung utama.",
+    "example": "Epidermis daun seringkali memiliki lapisan lilin untuk mencegah kehilangan air.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 322,
+    "term": "Epigenetika",
+    "definition": "Studi tentang perubahan ekspresi gen yang tidak disebabkan oleh perubahan urutan DNA itu sendiri.",
+    "example": "Epigenetika menjelaskan bagaimana lingkungan dapat 'menyalakan' atau 'mematikan' gen tertentu.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 323,
+    "term": "Epiglotis",
+    "definition": "Katup tulang rawan yang menutup saluran napas saat menelan agar makanan masuk ke kerongkongan.",
+    "example": "Tersedak terjadi jika epiglotis terlambat menutup saat kita makan sambil berbicara.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 324,
+    "term": "Epifit",
+    "definition": "Tumbuhan yang tumbuh menempel pada tumbuhan lain namun tidak mengambil nutrisi dari inangnya.",
+    "example": "Anggrek dan paku tanduk rusa adalah contoh tanaman yang hidup secara epifit.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 325,
+    "term": "Epistaksis",
+    "definition": "Istilah medis untuk kondisi pendarahan yang keluar dari hidung (mimisan).",
+    "example": "Epistaksis bisa terjadi akibat udara yang terlalu kering atau cedera pada hidung.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 326,
+    "term": "Epitelium",
+    "definition": "Jaringan penutup yang terdiri dari sel-sel rapat yang melapisi seluruh permukaan tubuh dan organ.",
+    "example": "Epitelium silindris pada usus berfungsi untuk menyerap zat-zat makanan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 327,
+    "term": "Eritrosit",
+    "definition": "Sel darah merah yang mengandung hemoglobin dan berfungsi mengangkut oksigen ke seluruh sel tubuh.",
+    "example": "Eritrosit matang pada manusia tidak memiliki inti sel agar dapat menampung lebih banyak hemoglobin.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 328,
+    "term": "Estrogen",
+    "definition": "Hormon seks utama pada wanita yang mengatur siklus reproduksi dan ciri kelamin sekunder.",
+    "example": "Hormon estrogen sangat rendah kadarnya pada wanita yang sudah mencapai masa menopause.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 329,
+    "term": "Etika",
+    "definition": "Prinsip moral yang mengatur perilaku manusia, termasuk dalam melakukan riset biologi dan medis.",
+    "example": "Etika biologi melarang penggunaan manusia sebagai subjek percobaan tanpa persetujuan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 330,
+    "term": "Etiologi",
+    "definition": "Studi tentang penyebab atau asal muasal terjadinya suatu penyakit atau kelainan.",
+    "example": "Dokter sedang meneliti etiologi dari munculnya virus flu jenis baru di peternakan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 331,
+    "term": "Eukariota",
+    "definition": "Makhluk hidup yang sel-selnya memiliki membran inti untuk membungkus materi genetiknya.",
+    "example": "Semua hewan dan tumbuhan tingkat tinggi termasuk dalam kelompok eukariota.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 332,
+    "term": "Eutropik",
+    "definition": "Kondisi perairan yang kaya akan unsur hara sehingga memicu pertumbuhan alga secara berlebihan.",
+    "example": "Danau yang eutropik dapat menyebabkan kematian ikan akibat kekurangan oksigen di malam hari.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 333,
+    "term": "Evakuasi",
+    "definition": "Pemindahan makhluk hidup atau penduduk dari daerah berbahaya ke tempat yang lebih aman.",
+    "example": "Evakuasi satwa dilakukan saat hutan tempat tinggal mereka mengalami kebakaran hebat.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 334,
+    "term": "Evaporasi",
+    "definition": "Proses penguapan air dari permukaan bumi (sungai/laut) menjadi uap air di udara.",
+    "example": "Evaporasi adalah bagian penting dari siklus hujan yang menyegarkan bumi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 335,
+    "term": "Eksisi",
+    "definition": "Tindakan pembedahan untuk memotong atau mengangkat jaringan tubuh, seperti tumor atau kista.",
+    "example": "Eksisi dilakukan pada tahi lalat yang dicurigai bersifat ganas (kanker).",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 336,
+    "term": "Eksperimen",
+    "definition": "Serangkaian tindakan dan pengamatan yang dilakukan secara terkontrol untuk menguji suatu hipotesis.",
+    "example": "Eksperimen di laboratorium membuktikan bahwa tanaman tumbuh lebih baik dengan pupuk organik.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 337,
+    "term": "Ekspirasi",
+    "definition": "Proses pengeluaran udara kaya karbon dioksida dari dalam paru-paru ke luar tubuh.",
+    "example": "Ekspirasi terjadi saat otot antartulang rusuk dan diafragma berelaksasi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 338,
+    "term": "Eksplan",
+    "definition": "Bagian kecil dari jaringan tumbuhan yang diambil untuk ditumbuhkan dalam kultur jaringan.",
+    "example": "Eksplan bunga mawar dapat menghasilkan ribuan bibit baru dalam waktu singkat melalui laboratorium.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 339,
+    "term": "Eksploitasi",
+    "definition": "Pemanfaatan sumber daya alam secara berlebihan yang dapat merusak keseimbangan ekosistem.",
+    "example": "Eksploitasi hutan tanpa reboisasi menyebabkan terjadinya bencana banjir di musim hujan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 340,
+    "term": "Ekstrak",
+    "definition": "Zat padat atau cair hasil penyaringan bahan alami yang mengandung komponen aktif tertentu.",
+    "example": "Ekstrak jahe telah lama digunakan oleh masyarakat Indonesia sebagai obat herbal alami.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 341,
+    "term": "Ekstirpasi",
+    "definition": "Tindakan pembedahan untuk mengangkat sel atau organ secara keseluruhan dari dalam tubuh.",
+    "example": "Ekstirpasi kelenjar tiroid mungkin diperlukan jika terjadi pembengkakan yang parah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 342,
+    "term": "Eksudat",
+    "definition": "Cairan yang keluar dari pembuluh darah ke jaringan tubuh atau luka akibat peradangan.",
+    "example": "Nanah pada luka adalah contoh eksudat yang mengandung banyak sel darah putih mati.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 343,
+    "term": "Evolusioner",
+    "definition": "Segala sesuatu yang berkaitan dengan perkembangan sejarah kehidupan secara bertahap selama jutaan tahun.",
+    "example": "Perubahan bentuk kaki kuda merupakan bukti dari sejarah evolusioner mamalia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 344,
+    "term": "Fagotrof",
+    "definition": "Makhluk hidup heterotrof yang memakan organisme lain dengan cara memakannya secara utuh.",
+    "example": "Amoeba bersifat fagotrof karena menelan mangsanya dengan membentuk kaki semu.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 345,
+    "term": "Falange",
+    "definition": "Istilah anatomi untuk tulang-tulang kecil yang menyusun jari tangan atau jari kaki.",
+    "example": "Mari-jari manusia memiliki tiga ruas tulang falange, kecuali pada ibu jari.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 346,
+    "term": "Fenotipe",
+    "definition": "Karakteristik fisik atau sifat makhluk hidup yang tampak dan dapat diamati secara langsung.",
+    "example": "Fenotipe bunga mawar meliputi warna mahkota, bentuk daun, dan adanya duri.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 347,
+    "term": "Fermentasi",
+    "definition": "Proses penguraian bahan organik oleh mikroba tanpa oksigen untuk menghasilkan energi dan hasil samping.",
+    "example": "Fermentasi mikroba digunakan dalam pembuatan keju, tempe, dan roti.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 348,
+    "term": "Fibrinogen",
+    "definition": "Protein terlarut dalam plasma darah yang sangat penting dalam proses pembekuan darah.",
+    "example": "Fibrinogen akan berubah menjadi benang-benang fibrin untuk menutup luka saat cidera.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 349,
+    "term": "Filogeni",
+    "definition": "Sejarah perkembangan dan hubungan kekerabatan antar kelompok organisme berdasarkan evolusi.",
+    "example": "Pohon filogeni menggambarkan bagaimana berbagai spesies burung berasal dari satu nenek moyang.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 350,
+    "term": "Filtrasi",
+    "definition": "Proses penyaringan zat-zat atau partikel dari suatu cairan melalui media penyaring yang berpori.",
+    "example": "Tahap filtrasi di ginjal terjadi di bagian glomerulus untuk menyaring darah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 351,
+    "term": "Flagel",
+    "definition": "Struktur berbentuk cambuk pada permukaan sel tertentu yang berfungsi sebagai alat gerak.",
+    "example": "Sperma manusia menggunakan flagel untuk berenang menuju sel telur.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 352,
+    "term": "Fleksi",
+    "definition": "Gerakan otot yang mengakibatkan pengecilan sudut antar dua tulang di persendian (menekuk).",
+    "example": "Gerakan mengangkat beban ke arah bahu adalah contoh fleksi pada otot bisep.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 353,
+    "term": "Floresensi",
+    "definition": "Kemampuan suatu molekul biologis untuk menyerap cahaya energi tinggi dan memancarkannya kembali.",
+    "example": "Beberapa jenis protein ubur-ubur memiliki sifat floresensi hijau yang indah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 354,
+    "term": "Fluoroskopi",
+    "definition": "Teknik pencitraan medis menggunakan sinar-X untuk melihat gambar organ dalam secara langsung (real-time).",
+    "example": "Fluoroskopi digunakan dokter untuk memandu pemasangan ring pada pembuluh darah jantung.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 355,
+    "term": "Folikel",
+    "definition": "Kantung kecil di dalam ovarium yang berisi sel telur setengah matang dan menghasilkan hormon.",
+    "example": "Setiap bulan, satu folikel akan matang dan melepaskan sel telur saat ovulasi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 356,
+    "term": "Fotoreseptor",
+    "definition": "Sel saraf khusus pada retina mata yang peka terhadap rangsangan cahaya.",
+    "example": "Sel batang dan sel kerucut adalah dua jenis fotoreseptor utama pada mata manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 357,
+    "term": "Fragmentasi",
+    "definition": "Cara reproduksi aseksual di mana tubuh induk terputus menjadi beberapa bagian yang tumbuh menjadi individu baru.",
+    "example": "Cacing Planaria dapat berkembang biak melalui proses fragmentasi tubuh.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 358,
+    "term": "Frontal",
+    "definition": "Bagian depan tubuh atau area dahi pada tengkorak manusia.",
+    "example": "Lobus frontal otak bertanggung jawab atas fungsi perencanaan dan pengambilan keputusan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 359,
+    "term": "Fruktosa",
+    "definition": "Jenis gula sederhana (monosakarida) yang banyak ditemukan secara alami di dalam buah-buahan dan madu.",
+    "example": "Fruktosa adalah gula yang memberikan rasa manis yang kuat pada buah mangga matang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 360,
+    "term": "Fungisida",
+    "definition": "Zat kimia atau agen biologis yang digunakan untuk menghambat atau membunuh jamur penyebab penyakit.",
+    "example": "Petani menyemprotkan fungisida untuk mencegah kerusakan tanaman akibat jamur upas.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 361,
+    "term": "Galaktosa",
+    "definition": "Gula sederhana yang biasanya berikatan dengan glukosa untuk membentuk gula susu (laktosa).",
+    "example": "Tubuh manusia mengubah galaktosa menjadi glukosa di organ hati untuk dijadikan energi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 362,
+    "term": "Gametogenesis",
+    "definition": "Proses pembentukan sel kelamin (gamet) melalui pembelahan sel meiosis di organ reproduksi.",
+    "example": "Spermatogenesis dan oogenesis merupakan dua bentuk utama dari gametogenesis pada manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 363,
+    "term": "Ganglion",
+    "definition": "Kumpulan badan sel saraf yang terletak di luar sistem saraf pusat.",
+    "example": "Ganglion akar dorsal mengandung sel-sel saraf yang membawa informasi sensorik ke sumsum tulang belakang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 364,
+    "term": "Gastritis",
+    "definition": "Peradangan yang terjadi pada lapisan pelindung dinding lambung, sering disebut penyakit maag.",
+    "example": "Pola makan yang tidak teratur dan stres dapat memicu munculnya gejala gastritis.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 365,
+    "term": "Generatif",
+    "definition": "Cara perkembangbiakan makhluk hidup yang melibatkan peleburan sel kelamin jantan dan betina.",
+    "example": "Penyerbukan pada bunga merupakan awal dari proses perkembangbiakan generatif tanaman.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 366,
+    "term": "Genom",
+    "definition": "Informasi genetik lengkap yang dimiliki oleh suatu individu atau spesies dalam satu set kromosom.",
+    "example": "Proyek Genom Manusia berhasil memetakan ribuan gen yang ada dalam sel kita.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 367,
+    "term": "Genus",
+    "definition": "Tingkatan klasifikasi makhluk hidup di bawah famili dan di atas spesies.",
+    "example": "Harimau (Panthera tigris) dan Singa (Panthera leo) berada dalam satu genus yang sama, yaitu Panthera.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 368,
+    "term": "Geotropisme",
+    "definition": "Gerak pertumbuhan bagian tumbuhan yang dipengaruhi oleh gaya gravitasi bumi.",
+    "example": "Akar tanaman menunjukkan geotropisme positif karena selalu tumbuh mengarah ke bawah.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 369,
+    "term": "Germinasi",
+    "definition": "Tahap awal perkembangan suatu biji yang mulai tumbuh menjadi tanaman baru (perkecambahan).",
+    "example": "Suhu dan kelembapan yang cukup sangat diperlukan agar proses germinasi biji berjalan baik.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 370,
+    "term": "Gestasi",
+    "definition": "Periode perkembangan embrio di dalam rahim induk dari pembuahan hingga kelahiran (masa kehamilan).",
+    "example": "Masa gestasi pada gajah adalah salah satu yang terlama di dunia hewan, mencapai 22 bulan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 371,
+    "term": "Giberelin",
+    "definition": "Hormon tumbuhan yang berfungsi merangsang pemanjangan batang, pembahalan sel, dan perkecambahan biji.",
+    "example": "Aplikasi giberelin dapat membantu tanaman kerdil tumbuh menjadi lebih tinggi.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 372,
+    "term": "Ginjal",
+    "definition": "Organ ekskresi pada manusia yang berbentuk seperti kacang, berfungsi menyaring darah dan menghasilkan urin.",
+    "example": "Manusia memiliki sepasang ginjal yang terletak di bagian belakang rongga perut.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 373,
+    "term": "Glaukoma",
+    "definition": "Kondisi kerusakan saraf mata akibat tekanan cairan di dalam bola mata yang terlalu tinggi.",
+    "example": "Glaukoma yang tidak diobati dapat menyebabkan kebutaan permanen pada penderitanya.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 374,
+    "term": "Glia",
+    "definition": "Sel penyokong di sistem saraf yang tidak menghantarkan impuls, namun penting untuk nutrisi dan perlindungan neuron.",
+    "example": "Sel glia jumlahnya jauh lebih banyak daripada sel neuron di dalam otak manusia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 375,
+    "term": "Gliserol",
+    "definition": "Molekul alkohol sederhana yang merupakan komponen penyusun lemak (trigliserida) bersama asam lemak.",
+    "example": "Lemak tubuh akan dipecah menjadi gliserol dan asam lemak saat kita memerlukan cadangan energi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 376,
+    "term": "Globulin",
+    "definition": "Kelompok protein plasma darah yang berperan penting dalam sistem kekebalan (antibodi) dan transportasi.",
+    "example": "Imunoglobulin adalah jenis globulin yang bertugas melawan bakteri penyakit dalam tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 377,
+    "term": "Glomerulus",
+    "definition": "Kumpulan pembuluh darah kapiler halus di ginjal sebagai tempat awal penyaringan darah.",
+    "example": "Darah masuk ke glomerulus di dalam Kapsul Bowman untuk proses filtrasi urin.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 378,
+    "term": "Glotis",
+    "definition": "Celah atau lubang di antara pita suara yang menuju ke saluran tenggorokan (trakea).",
+    "example": "Pembukaan dan penutupan glotis mengatur jumlah udara yang masuk ke paru-paru.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 379,
+    "term": "Glukagon",
+    "definition": "Hormon yang dihasilkan pankreas untuk meningkatkan kadar gula dalam darah saat terlalu rendah.",
+    "example": "Glukagon merangsang hati untuk mengubah cadangan glikogen kembali menjadi glukosa.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 380,
+    "term": "Glukosa",
+    "definition": "Gula sederhana yang merupakan sumber energi utama bagi seluruh sel-sel di dalam tubuh makhluk hidup.",
+    "example": "Sel otak sangat bergantung pada ketersediaan glukosa dalam darah untuk berfungsi normal.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 381,
+    "term": "Gonad",
+    "definition": "Organ reproduksi primer yang menghasilkan sel kelamin (testis pada jantan, ovarium pada betina).",
+    "example": "Gonad juga berfungsi menghasilkan hormon seks yang memengaruhi ciri tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 382,
+    "term": "Gradien",
+    "definition": "Perbedaan konsentrasi zat atau tekanan antara dua area yang berbeda.",
+    "example": "Oksigen mengalir masuk ke dalam sel mengikuti gradien konsentrasi yang lebih rendah di dalam.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 383,
+    "term": "Gram-negatif",
+    "definition": "Kelompok bakteri yang memiliki lapisan dinding sel tipis dan berwarna merah saat diwarnai teknik Gram.",
+    "example": "Sebagian besar bakteri penyebab infeksi saluran kemih termasuk golongan Gram-negatif.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 384,
+    "term": "Gram-positif",
+    "definition": "Kelompok bakteri yang memiliki lapisan dinding sel tebal dan berwarna ungu saat diwarnai teknik Gram.",
+    "example": "Bakteri Staphylococcus yang menyebabkan bisul pada kulit termasuk jenis Gram-positif.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 385,
+    "term": "Granulosit",
+    "definition": "Jenis sel darah putih yang memiliki butiran kasar (granula) di dalam sitoplasmanya.",
+    "example": "Neutrofil, eosinofil, dan basofil adalah tiga anggota utama kelompok granulosit.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 386,
+    "term": "Gravitropisme",
+    "definition": "Nama lain dari geotropisme, yaitu gerak tumbuhan yang merespons gaya gravitasi bumi.",
+    "example": "Batang tanaman menunjukkan gravitropisme negatif karena tumbuh menjauhi tanah.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 387,
+    "term": "Gutasi",
+    "definition": " Proses pengeluaran tetesan air melalui lubang di tepi daun akibat tekanan akar yang tinggi.",
+    "example": "Tetesan air di ujung daun padi pada pagi hari seringkali adalah hasil dari gutasi, bukan embun.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 388,
+    "term": "Halofit",
+    "definition": "Jenis tumbuhan yang memiliki adaptasi khusus agar dapat hidup di lingkungan dengan kadar garam sangat tinggi.",
+    "example": "Pohon bakau (mangrove) adalah contoh tanaman halofit yang hidup di kawasan pesisir.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 389,
+    "term": "Haustorium",
+    "definition": "Akar khusus pada tumbuhan parasit yang berfungsi untuk menembus dan menyerap nutrisi dari tanaman inang.",
+    "example": "Tanaman benalu menggunakan haustorium untuk mengambil air dari pohon yang ditumpanginya.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 390,
+    "term": "Havers",
+    "definition": "Sistem saluran kecil di dalam tulang keras yang berisi pembuluh darah dan saraf.",
+    "example": "Saluran Havers menyediakan nutrisi bagi sel-sel tulang (osteosit) agar tetap sehat.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 391,
+    "term": "Helminthologi",
+    "definition": "Cabang ilmu biologi yang secara khusus mempelajari tentang cacing-cacing parasit.",
+    "example": "Helminthologi membantu dokter dalam memahami siklus hidup cacing pita di dalam tubuh manusia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 392,
+    "term": "Hematologi",
+    "definition": "Cabang ilmu kedokteran yang mmpelajari tentang darah, organ pembentuk darah, dan kelainannya.",
+    "example": "Seorang ahli hematologi mendiagnosis jenis anemia yang diderita oleh pasien.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 393,
+    "term": "Hemodialisis",
+    "definition": "Prosedur medis untuk menyaring darah menggunakan mesin pengganti ginjal (cuci darah).",
+    "example": "Pasien dengan gagal ginjal memerlukan hemodialisis dua sampai tiga kali seminggu.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 394,
+    "term": "Hemofilia",
+    "definition": "Kelainan genetik turunan di mana darah sulit membeku saat terjadi luka atau pendarahan.",
+    "example": "Penderita hemofilia harus sangat berhati-hati agar tidak mengalami luka yang parah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 395,
+    "term": "Hemolisis",
+    "definition": "Proses pecahnya membran sel darah merah sehingga hemoglobin keluar ke plasma darah.",
+    "example": "Hemolisis dapat terjadi akibat reaksi transfusi darah yang tidak cocok.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 396,
+    "term": "Hemostatik",
+    "definition": "Segala sesuatu yang berfungsi untuk menghentikan pendarahan secara cepat dan efektif.",
+    "example": "Obat hemostatik sering digunakan dalam pembedahan untuk meminimalkan kehilangan darah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 397,
+    "term": "Hepatik",
+    "definition": "Istilah biologi yang berkaitan dengan organ hati manusia.",
+    "example": "Arteri hepatik membawa darah bersih yang kaya oksigen langsung menuju organ hati.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 398,
+    "term": "Hepatitis",
+    "definition": "Peradangan yang terjadi pada jaringan hati, biasanya disebabkan oleh infeksi virus hepatitis.",
+    "example": "Vaksinasi adalah cara terbaik untuk mencegah penularan penyakit hepatitis B.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 399,
+    "term": "Herbisida",
+    "definition": "Zat kimia yang digunakan untuk membasmi atau mematikan tumbuhan pengganggu (gulma).",
+    "example": "Penggunaan herbisida yang berlebihan dapat mencemari ekosistem air di sekitarnya.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 400,
+    "term": "Hereditas",
+    "definition": "Proses pewarisan sifat-sifat fisik maupun genetika dari orang tua kepada keturunannya.",
+    "example": "Warna rambut dan bentuk hidung kita merupakan hasil dari proses hereditas orang tua.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 401,
+    "term": "Hibridoma",
+    "definition": "Sel buatan hasil peleburan antara sel limfosit dan sel kanker untuk memproduksi antibodi monoklonal.",
+    "example": "Teknologi hibridoma sangat berguna dalam pembuatan obat-obatan imunitas modern.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 402,
+    "term": "Hidrofit",
+    "definition": "Jenis tumbuhan yang telah beradaptasi untuk hidup di lingkungan yang berair atau sangat basah.",
+    "example": "Teratai adalah contoh tanaman hidrofit yang memiliki daun lebar agar mudah mengapung.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 403,
+    "term": "Hidrolisis",
+    "definition": "Reaksi kimia pemecahan molekul kompleks menggunakan molekul air sebagai pereaksi.",
+    "example": "Pencernaan protein di dalam lambung melibatkan proses hidrolisis oleh enzim protease.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 404,
+    "term": "Higrofit",
+    "definition": "Tumbuhan yang hidup di lingkungan dengan tingkat kelembapan udara yang sangat tinggi.",
+    "example": "Tanaman paku-pakuan sering ditemukan di lantai hutan yang lembap sebagai jenis higrofit.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 405,
+    "term": "Hipertonik",
+    "definition": "Kondisi larutan yang memiliki konsentrasi zat terlarut lebih tinggi dibandingkan larutan di sekitarnya.",
+    "example": "Sel yang diletakkan dalam larutan hipertonik akan mengalami pengerutan (krenasi).",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 406,
+    "term": "Hipofisis",
+    "definition": "Kelenjar buntu kecil di dasar otak yang mengontrol fungsi sebagian besar kelenjar hormon lainnya.",
+    "example": "Hipofisis sering dijuluki sebagai 'master of glands' karena peran pentingnya bagi tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 407,
+    "term": "Hipotalamus",
+    "definition": "Bagian otak yang berfungsi sebagai pusat pengaturan suhu tubuh, rasa lapar, dan haus.",
+    "example": "Hipotalamus menjaga keseimbangan kondisi internal tubuh melalui sistem saraf dan hormon.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 408,
+    "term": "Hipotonik",
+    "definition": "Kondisi larutan yang memiliki konsentrasi zat terlarut lebih rendah dibandingkan larutan di sekitarnya.",
+    "example": "Air murni bersifat hipotonik terhadap sel darah merah, sehingga dapat menyebabkan sel pecah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 409,
+    "term": "Hipotesis",
+    "definition": "Jawaban sementara atau dugaan ilmiah yang perlu diuji kebenarannya melalui penelitian atau eksperimen.",
+    "example": "Peneliti menyusun hipotesis bahwa pupuk organik akan mempercepat pertumbuhan padi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 410,
+    "term": "Histologi",
+    "definition": "Cabang ilmu biologi yang mempelajari struktur jaringan tubuh secara mikroskopis.",
+    "example": "Pemeriksaan histologi diperlukan untuk mengetahui kesehatan sel-sel pada organ hati.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 411,
+    "term": "Holometabola",
+    "definition": "Tipe perkembangan serangga yang mengalami metamorfosis sempurna (telur-larva-pupa-dewasa).",
+    "example": "Kupu-kupu adalah contoh hewan yang mengalami siklus hidup holometabola.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 412,
+    "term": "Holotipe",
+    "definition": "Satu spesimen fisik tunggal yang digunakan sebagai acuan resmi saat suatu spesies baru dideskripsikan.",
+    "example": "Fosil holotipe dinosaurus tersebut disimpan di museum nasional sebagai rujukan ilmiah.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 413,
+    "term": "Homologi",
+    "definition": "Kemiripan struktur organ pada spesies berbeda karena berasal dari asal usul evolusi yang sama.",
+    "example": "Tangan manusia dan sayap kelelawar menunjukkan hubungan homologi.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 414,
+    "term": "Homospora",
+    "definition": "Tumbuhan paku yang hanya menghasilkan satu jenis spora dengan bentuk dan ukuran yang sama.",
+    "example": "Paku kawat (Lycopodium) adalah contoh dari kelompok tumbuhan homospora.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 415,
+    "term": "Inang",
+    "definition": "Organisme yang ditumpangi oleh parasit atau virus untuk mendapatkan tempat tinggal dan makanan.",
+    "example": "Pohon mangga bertindak sebagai inang bagi tanaman benalu yang menempel padanya.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 416,
+    "term": "Hifa",
+    "definition": "Struktur berbentuk benang-benang halus yang menyusun tubuh jamur (mycelium).",
+    "example": "Hifa jamur tempe terlihat seperti kapas putih yang menyelimuti biji kedelai.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 417,
+    "term": "Iktiologi",
+    "definition": "Cabang ilmu zoologi yang khusus mempelajari segala aspek tentang kehidupan ikan.",
+    "example": "Ahli iktiologi meneliti keanekaragaman jenis ikan yang ada di sungai Amazon.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 418,
+    "term": "Ileum",
+    "definition": "Bagian akhir dari usus halus manusia yang berfungsi utama untuk penyerapan sisa nutrisi.",
+    "example": "Vitamin B12 diserap oleh tubuh di bagian ileum sebelum masuk ke usus besar.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 419,
+    "term": "Imunologi",
+    "definition": "Ilmu biologi yang mempelajari sistem pertahanan tubuh terhadap serangan benda asing dan penyakit.",
+    "example": "Imunologi membantu kita memahami cara kerja vaksin dalam melindungi tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 420,
+    "term": "Inbreeding",
+    "definition": "Perkawinan antar individu yang memiliki hubungan kekerabatan sangat dekat (perkawinan sedarah).",
+    "example": "Inbreeding yang dilakukan terus-menerus dapat meningkatkan risiko munculnya penyakit genetik.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 421,
+    "term": "Indikator",
+    "definition": "Spesies makhluk hidup yang keberadaannya dapat menunjukkan kondisi kesehatan suatu lingkungan.",
+    "example": "Munculnya lumut kerak (Lichenes) adalah indikator bahwa udara di wilayah tersebut bersih.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 422,
+    "term": "Individu",
+    "definition": "Satu makhluk hidup tunggal yang merupakan unit terkecil dalam suatu populasi.",
+    "example": "Seekor harimau yang hidup menyendiri di hutan adalah satu contoh individu.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 423,
+    "term": "Infiltrasi",
+    "definition": "Proses masuknya air permukaan tanah ke dalam lapisan tanah melalui pori-pori tanah.",
+    "example": "Hutan yang lebat memiliki tingkat infiltrasi air yang sangat tinggi saat hujan deras.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 424,
+    "term": "Inflamasi",
+    "definition": "Reaksi alami tubuh terhadap cedera atau infeksi yang ditandai dengan bengkak, kemerahan, dan nyeri.",
+    "example": "Inflamasi atau peradangan adalah upaya pertama tubuh untuk menyembuhkan luka.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 425,
+    "term": "Infloresensi",
+    "definition": "Kumpulan bunga-bunga yang tersusun pada satu tangkai bunga utama (bunga majemuk).",
+    "example": "Bunga matahari adalah contoh infloresensi yang terdiri dari ratusan bunga kecil.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 426,
+    "term": "Ingesti",
+    "definition": "Proses memasukkan makanan atau minuman ke dalam tubuh melalui mulut.",
+    "example": "Langkah pertama dalam sistem pencernaan manusia adalah proses ingesti.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 427,
+    "term": "Inhalasi",
+    "definition": "Proses menghirup udara atau gas ke dalam paru-paru melalui hidung atau mulut.",
+    "example": "Inhalasi gas oksigen sangat diperlukan untuk menjaga kelangsungan hidup sel tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 428,
+    "term": "Inhibitor",
+    "definition": "Zat yang berfungsi untuk menghambat atau menghentikan kerja suatu enzim dalam reaksi kimia.",
+    "example": "Beberapa jenis racun bekerja sebagai inhibitor enzim yang mematikan bagi sel saraf.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 429,
+    "term": "Inisiasi",
+    "definition": "Tahap awal atau permulaan dari suatu proses biologis, seperti sintesis protein.",
+    "example": "Faktor inisiasi diperlukan agar ribosom mulai membaca kode genetik pada RNA.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 430,
+    "term": "Injeksi",
+    "definition": "Metode memasukkan cairan (obat atau vaksin) ke dalam tubuh menggunakan jarum suntik.",
+    "example": "Dokter memberikan injeksi insulin kepada pasien penderita diabetes mellitus.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 431,
+    "term": "Inokulasi",
+    "definition": "Proses pemindahan mikroorganisme ke dalam media pertumbuhan atau tubuh inang secara sengaja.",
+    "example": "Inokulasi bakteri dilakukan di laboratorium untuk menumbuhkan biakan murni.",
+    "category": "Virus & Bakteri",
+    "isBookmarked": false
+  },
+  {
+    "id": 432,
+    "term": "Insektisida",
+    "definition": "Zat kimia yang digunakan khusus untuk membasmi atau membunuh serangga pengganggu.",
+    "example": "Insektisida organik lebih ramah lingkungan untuk mengontrol populasi ulat di kebun.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 433,
+    "term": "Inseminasi",
+    "definition": "Proses memasukkan sperma ke dalam saluran reproduksi betina untuk memicu pembuahan.",
+    "example": "Inseminasi buatan sering digunakan pada peternakan sapi untuk mendapatkan bibit unggul.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 434,
+    "term": "Insisivus",
+    "definition": "Gigi seri yang berbentuk tajam di bagian depan mulut, berfungsi untuk memotong makanan.",
+    "example": "Manusia memiliki delapan buah gigi insisivus di bagian atas dan bawah.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 435,
+    "term": "Insomnia",
+    "definition": "Gangguan tidur yang menyebabkan seseorang sulit memulainya atau sulit tetap terlelap.",
+    "example": "Stres yang berlebihan seringkali menjadi pemicu utama terjadinya insomnia.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 436,
+    "term": "Insting",
+    "definition": "Pola perilaku alami dan tidak dipelajari yang dimiliki oleh hewan untuk bertahan hidup.",
+    "example": "Burung memiliki insting untuk bermigrasi ke arah selatan saat musim dingin tiba.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 437,
+    "term": "Insulin",
+    "definition": "Hormon yang dihasilkan pankreas untuk mengatur penyerapan glukosa dari darah ke dalam sel.",
+    "example": "Kekurangan produksi insulin akan menyebabkan kadar gula darah melonjak tinggi.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 438,
+    "term": "Integumen",
+    "definition": "Sistem penutup luar tubuh seperti kulit, bulu, rambut, atau sisik sebagai pelindung.",
+    "example": "Sistem integumen menjaga organ tubuh bagian dalam dari serangan kuman dan suhu ekstrim.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 439,
+    "term": "Interaksi",
+    "definition": "Hubungan timbal balik antara makhluk hidup dengan sesamanya maupun dengan lingkungannya.",
+    "example": "Interaksi antara lebah dan bunga adalah contoh hubungan yang saling menguntungkan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 440,
+    "term": "Interfase",
+    "definition": "Tahap persiapan sel sebelum melakukan pembelahan di mana terjadi penggandaan materi genetik.",
+    "example": "Sebagian besar waktu dalam siklus sel dihabiskan pada tahap interfase.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 441,
+    "term": "Internodus",
+    "definition": "Bagian batang tumbuhan yang terletak di antara dua buku (nodus) atau tempat munculnya daun.",
+    "example": "Pemanjangan internodus membuat tanaman tumbuh menjadi lebih tinggi.",
+    "category": "Tanaman",
+    "isBookmarked": false
+  },
+  {
+    "id": 442,
+    "term": "Intersepsi",
+    "definition": "Proses tertahannya air hujan oleh permukaan vegetasi (daun/batang) sebelum sampai ke tanah.",
+    "example": "Intersepsi air oleh tajuk pohon membantu mencegah erosi tanah saat hujan deras.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 443,
+    "term": "Interstitial",
+    "definition": "Cairan yang mengisi ruang-ruang sempit di antara sel-sel di dalam jaringan tubuh.",
+    "example": "Cairan interstitial berfungsi sebagai perantara pertukaran nutrisi antara darah dan sel.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 444,
+    "term": "Intestinum",
+    "definition": "Istilah anatomi untuk saluran usus yang merupakan bagian penting dari sistem pencernaan.",
+    "example": "Intestinum tenue atau usus halus adalah tempat utama penyerapan sari makanan.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 445,
+    "term": "Intoxikasi",
+    "definition": "Kondisi tubuh yang mengalami keracunan akibat masuknya zat berbahaya atau kuman penyakit.",
+    "example": "Diare akut seringkali merupakan tanda dari adanya intoxikasi makanan pada seseorang.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 446,
+    "term": "Intraseluler",
+    "definition": "Segala sesuatu atau proses yang terjadi di dalam bagian dalam sel makhluk hidup.",
+    "example": "Pencernaan bebas oksigen sering terjadi secara intraseluler pada organisme sederhana.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 447,
+    "term": "Intravena",
+    "definition": "Metode pemberian cairan atau obat langsung ke dalam pembuluh darah balik (vena).",
+    "example": "Cairan infus diberikan melalui jalur intravena agar lebih cepat bereaksi di tubuh.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 448,
+    "term": "Inversi",
+    "definition": "Jenis kelainan kromosom di mana sebuah segmen DNA terputus dan terpasang kembali secara terbalik.",
+    "example": "Inversi kromosom dapat mengganggu proses pewarisan sifat yang normal.",
+    "category": "Tubuh Manusia",
+    "isBookmarked": false
+  },
+  {
+    "id": 449,
+    "term": "In vitro",
+    "definition": "Riset atau prosedur biologis yang dilakukan di luar tubuh makhluk hidup, seperti di tabung reaksi.",
+    "example": "Pembuahan in vitro dilakukan untuk membantu pasangan yang sulit memiliki keturunan.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
+    "id": 450,
+    "term": "In vivo",
+    "definition": "Riset atau prosedur biologis yang dilakukan langsung di dalam tubuh makhluk hidup yang utuh.",
+    "example": "Uji klinik in vivo diperlukan untuk memastikan keamanan obat pada manusia.",
+    "category": "Ekologi",
+    "isBookmarked": false
+  },
+  {
     "id": 2001,
     "term": "Apoptosis",
     "definition": "Proses kematian sel terprogram yang terjadi pada organisme multiseluler untuk membuang sel yang sudah tidak diperlukan atau rusak.",
@@ -208,7 +3816,7 @@
     "definition": "Versi alternatif dari gen yang menempati posisi (lokus) yang sama pada kromosom tertentu.",
     "example": "Warna bunga ercis, baik ungu maupun putih, ditentukan oleh allel yang berbeda dari gen pewarna.",
     "category": "Genetik"
-  }
+  },
   {
     "id": 2031,
     "term": "Alveolus",
@@ -418,8 +4026,8 @@
     "definition": "Kemampuan luar biasa dari sebuah sel tunggal untuk membelah dan menghasilkan semua jaringan hingga membentuk organisme baru yang utuh.",
     "example": "Teori kultur jaringan tanaman modern sangat bergantung pada pemanfaatan sifat totipotensi pada sel tumbuhan.",
     "category": "Botani"
-  }
-    {
+  },
+  {
     "id": 2061,
     "term": "Abdomen",
     "definition": "Bagian tubuh makhluk hidup yang berada di antara toraks (dada) dan panggul, atau biasa disebut sebagai perut.",
@@ -628,8 +4236,8 @@
     "definition": "Cabang pendek menjari seperti akar pohon dari badan sel saraf utama yang dikhususkan untuk menerima sinyal saraf elektrokimiawi dari sel saraf lainnya.",
     "example": "Satu sel saraf di otak dapat memiliki ribuan dendrit untuk menerima informasi kompleks secara bersamaan dari seluruh tubuh.",
     "category": "Anatomi"
-  }
-    {
+  },
+  {
     "id": 2091,
     "term": "Bakterisida",
     "definition": "Bahan kimia atau zat biologis yang mampu membunuh bakteri secara langsung, bukan sekadar menghambat pertumbuhannya.",
