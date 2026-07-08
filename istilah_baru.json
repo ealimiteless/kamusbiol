@@ -1,0 +1,212 @@
+[
+  {
+    "id": 2001,
+    "term": "Apoptosis",
+    "definition": "Proses kematian sel terprogram yang terjadi pada organisme multiseluler untuk membuang sel yang sudah tidak diperlukan atau rusak.",
+    "example": "Apoptosis sangat penting dalam perkembangan embrio, seperti hilangnya selaput antara jari tangan manusia.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2002,
+    "term": "Autotrof",
+    "definition": "Organisme yang mampu mensintesis makanannya sendiri dari bahan anorganik menggunakan energi cahaya atau kimia.",
+    "example": "Tumbuhan hijau adalah autotrof karena dapat membuat makanan sendiri melalui proses fotosintesis.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2003,
+    "term": "Bakteriofag",
+    "definition": "Virus yang menginfeksi dan bereplikasi di dalam bakteri.",
+    "example": "Bakteriofag sering digunakan dalam terapi fag untuk mengatasi infeksi bakteri yang kebal antibiotik.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2004,
+    "term": "Bioremediasi",
+    "definition": "Penggunaan mikroorganisme, jamur, atau tanaman untuk membersihkan lingkungan yang tercemar.",
+    "example": "Bakteri pemakan minyak digunakan dalam bioremediasi untuk mengatasi tumpahan minyak di laut.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2005,
+    "term": "Kariotipe",
+    "definition": "Susunan visual dari kromosom-kromosom suatu organisme yang diurutkan berdasarkan ukuran dan bentuk.",
+    "example": "Pemeriksaan kariotipe dilakukan untuk mendeteksi kelainan genetik seperti sindrom Down.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2006,
+    "term": "Diferensiasi Sel",
+    "definition": "Proses di mana sel yang kurang khusus berkembang menjadi jenis sel yang lebih khusus dengan fungsi tertentu.",
+    "example": "Diferensiasi sel memungkinkan sel punca berubah menjadi sel otot, sel saraf, atau sel darah.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2007,
+    "term": "Eksositosis",
+    "definition": "Proses pengeluaran zat dari dalam sel melalui penyatuan vesikel dengan membran plasma.",
+    "example": "Sel saraf menggunakan eksositosis untuk melepaskan neurotransmiter ke celah sinapsis.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2008,
+    "term": "Fenotipe",
+    "definition": "Karakteristik fisik, biokimia, atau perilaku yang dapat diamati dari suatu organisme, hasil interaksi genotipe dengan lingkungan.",
+    "example": "Warna mata coklat dan tinggi badan merupakan contoh dari fenotipe.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2009,
+    "term": "Glukoneogenesis",
+    "definition": "Lintasan metabolisme pembentukan glukosa dari prekursor non-karbohidrat, seperti asam laktat atau asam amino.",
+    "example": "Glukoneogenesis terjadi di hati untuk menjaga kadar gula darah saat tubuh sedang berpuasa.",
+    "category": "Anatomi & Fisiologi"
+  },
+  {
+    "id": 2010,
+    "term": "Homeostasis",
+    "definition": "Kemampuan sistem biologis untuk mempertahankan keadaan keseimbangan internal yang stabil meski lingkungan luar berubah.",
+    "example": "Berkeringat saat cuaca panas adalah salah satu cara tubuh menjaga homeostasis suhu.",
+    "category": "Anatomi & Fisiologi"
+  },
+  {
+    "id": 2011,
+    "term": "Homologi",
+    "definition": "Kesamaan struktur organ pada spesies yang berbeda karena diwarisi dari nenek moyang yang sama, meskipun fungsinya mungkin berbeda.",
+    "example": "Sayap kelelawar dan lengan manusia adalah contoh homologi dalam evolusi.",
+    "category": "Evolusi"
+  },
+  {
+    "id": 2012,
+    "term": "Sistem Imun Adaptif",
+    "definition": "Sistem pertahanan tubuh spesifik yang dapat mengingat patogen tertentu setelah infeksi pertama, memberikan respons yang lebih kuat di masa depan.",
+    "example": "Vaksinasi bekerja dengan memicu sistem imun adaptif agar siap melawan penyakit.",
+    "category": "Anatomi & Fisiologi"
+  },
+  {
+    "id": 2013,
+    "term": "Introgresi",
+    "definition": "Transfer materi genetik dari satu spesies ke spesies lain melalui hibridisasi dan perkawinan silang yang berulang.",
+    "example": "Banyak varietas tanaman padi modern memiliki sifat tahan penyakit hasil dari introgresi dengan spesies padi liar.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2014,
+    "term": "Spesies Kunci (Keystone Species)",
+    "definition": "Spesies yang memiliki pengaruh dominan dan tidak proporsional terhadap struktur lingkungan dan komunitas ekologi mereka.",
+    "example": "Bintang laut adalah spesies kunci karena mencegah populasi kerang tumbuh tak terkendali di terumbu karang.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2015,
+    "term": "Lisosom",
+    "definition": "Organel sel yang mengandung enzim hidrolitik untuk memecah makromolekul, bagian sel yang rusak, atau patogen.",
+    "example": "Makrofag menggunakan lisosom untuk menghancurkan bakteri yang telah mereka telan.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2016,
+    "term": "Meristem",
+    "definition": "Jaringan pada tumbuhan yang tersusun atas sel-sel yang belum berdiferensiasi dan terus membelah secara aktif.",
+    "example": "Pertumbuhan tinggi pada tanaman terjadi karena adanya jaringan meristem apikal di ujung batang.",
+    "category": "Botani"
+  },
+  {
+    "id": 2017,
+    "term": "Mikoriza",
+    "definition": "Hubungan simbiosis mutualisme antara jamur (fungi) dengan akar tumbuhan tingkat tinggi.",
+    "example": "Mikoriza membantu akar pohon pinus menyerap fosfor dan air dari tanah yang tandus.",
+    "category": "Botani"
+  },
+  {
+    "id": 2018,
+    "term": "Relung Ekologi (Niche)",
+    "definition": "Peran spesifik dan posisi fungsional suatu organisme di dalam ekosistemnya, termasuk habitat dan cara ia mendapat makanan.",
+    "example": "Meskipun hidup di pohon yang sama, beberapa jenis burung memiliki relung ekologi berbeda dengan memakan serangga di dahan yang berbeda.",
+    "category": "Ekologi"
+  },
+  {
+    "id": 2019,
+    "term": "Partenogenesis",
+    "definition": "Bentuk reproduksi aseksual di mana embrio berkembang dari sel telur yang tidak dibuahi oleh sperma.",
+    "example": "Komodo betina dapat bereproduksi secara partenogenesis saat tidak ada pejantan di sekitarnya.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2020,
+    "term": "Fagositosis",
+    "definition": "Proses seluler di mana sel menelan partikel padat berukuran besar untuk membentuk fagosom.",
+    "example": "Sel darah putih melakukan fagositosis untuk menelan dan menghancurkan bakteri jahat di dalam darah.",
+    "category": "Seluler"
+  },
+  {
+    "id": 2021,
+    "term": "Plankton",
+    "definition": "Organisme mikroskopis yang hidup mengapung bebas di lautan atau air tawar dan tidak bisa melawan arus air.",
+    "example": "Fitoplankton adalah penghasil sebagian besar oksigen yang ada di atmosfer bumi.",
+    "category": "Ekologi laut"
+  },
+  {
+    "id": 2022,
+    "term": "Polimorfisme",
+    "definition": "Keberadaan dua atau lebih bentuk fenotipe atau bentuk alternatif yang jelas berbeda dalam suatu populasi spesies.",
+    "example": "Keberadaan golongan darah A, B, AB, dan O pada manusia adalah contoh polimorfisme genetik.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2023,
+    "term": "Rhizobium",
+    "definition": "Bakteri tanah yang mengikat gas nitrogen dari udara dan mengubahnya menjadi bentuk yang bisa diserap oleh tanaman legum.",
+    "example": "Akar tanaman kacang-kacangan memiliki bintil yang berisi bakteri Rhizobium.",
+    "category": "Mikrobiologi"
+  },
+  {
+    "id": 2024,
+    "term": "Spesiasi",
+    "definition": "Proses evolusi di mana populasi suatu spesies terpisah dan berkembang menjadi spesies baru yang berbeda.",
+    "example": "Burung finch di Kepulauan Galapagos mengalami spesiasi akibat isolasi geografis dan perbedaan jenis makanan.",
+    "category": "Evolusi"
+  },
+  {
+    "id": 2025,
+    "term": "Transkripsi",
+    "definition": "Proses sintesis molekul RNA menggunakan untai DNA sebagai cetakan di dalam inti sel.",
+    "example": "Transkripsi adalah langkah pertama dalam proses ekspresi genetik dari DNA menjadi protein.",
+    "category": "Genetik"
+  },
+  {
+    "id": 2026,
+    "term": "Turgor (Tekanan Turgor)",
+    "definition": "Tekanan yang diberikan oleh air di dalam vakuola terhadap dinding sel tanaman.",
+    "example": "Hilangnya tekanan turgor adalah penyebab mengapa tanaman layu ketika kurang disiram air.",
+    "category": "Botani"
+  },
+  {
+    "id": 2027,
+    "term": "Vektor",
+    "definition": "Organisme hidup yang membawa agen infeksi dari satu inang ke inang lainnya tanpa harus menjadi sakit karenanya.",
+    "example": "Nyamuk Aedes aegypti bertindak sebagai vektor untuk virus penyebab Demam Berdarah Dengue.",
+    "category": "Zoologi"
+  },
+  {
+    "id": 2028,
+    "term": "Xilem",
+    "definition": "Jaringan pembuluh pada tumbuhan berpembuluh yang berfungsi mengangkut air dan mineral dari akar ke daun.",
+    "example": "Xilem pada batang kayu tua biasanya tersumbat dan akan berfungsi sebagai penyokong struktural pohon.",
+    "category": "Botani"
+  },
+  {
+    "id": 2029,
+    "term": "Zigot",
+    "definition": "Sel diploid tunggal yang terbentuk dari penyatuan gamet jantan (sperma) dan gamet betina (ovum) melalui fertilisasi.",
+    "example": "Setelah pembuahan, zigot akan membelah berkali-kali untuk membentuk embrio.",
+    "category": "Anatomi & Fisiologi"
+  },
+  {
+    "id": 2030,
+    "term": "Allel",
+    "definition": "Versi alternatif dari gen yang menempati posisi (lokus) yang sama pada kromosom tertentu.",
+    "example": "Warna bunga ercis, baik ungu maupun putih, ditentukan oleh allel yang berbeda dari gen pewarna.",
+    "category": "Genetik"
+  }
+]
