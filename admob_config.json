@@ -1,0 +1,7 @@
+{
+  "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
+  "interstitial_min_interval_seconds": 60,
+  "ads_enabled": true
+}
